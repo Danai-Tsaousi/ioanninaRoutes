@@ -21,11 +21,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(84, 70, 70);
 }
 
 .App-link {
-  color: #61dafb;
+  color: #33afd1;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +35,111 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/*         FOR SIDEBAR           */
+html,
+body {
+  margin: 0;
+}
+
+#App {
+  font-family: sans-serif;
+  height: 100%;
+}
+
+#page-wrap {
+  text-align: center;
+  overflow: auto;
+}
+
+.bm-item {
+  display: inline-block;
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: #d1d1d1;
+  transition: color 0.2s;
+}
+
+.bm-item:hover {
+  color: white;
+}
+
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
+}
+
+.bm-burger-bars {
+  background: #7a819f;
+}
+
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+.bm-cross {
+  background: #fefeff;
+}
+
+.bm-menu {
+  background: #a48888;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+.bm-morph-shape {
+  fill: #7e8ac3;
+}
+
+.bm-item-list {
+  color: #0b0b0b;
+}
+
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/*DROPDOWN MENU     */
+.dropdown {
+  position: relative;
+}
+
+.menu {
+  position: absolute;
+
+  list-style-type: none;
+  margin: 5px 0;
+  padding: 0;
+
+  border: 2px solid rgba(217, 211, 211, 0.879);
+  width: 250px;
+}
+
+.menu > li {
+  margin: 5;
+
+  background-color: rgb(237, 232, 232);
+}
+
+.menu > li:hover {
+  background-color: rgba(236, 214, 214, 0.868);
+}
+
+.menu > li > button {
+  width: 100%;
+  height: 100%;
+  text-align: left;
+
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 5px;
+  margin: 0;
+  font: inherit;
+  cursor: pointer;
 }

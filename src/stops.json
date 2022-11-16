@@ -1,0 +1,6554 @@
+[
+    {
+        "id": 47984,
+        "code": "160",
+        "latitude": 39.635967,
+        "longitude": 20.871914,
+        "description": {
+            "el": " ΜΑΚΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": " MAKH PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47968,
+        "code": "1450",
+        "latitude": 39.5852453,
+        "longitude": 20.9513468,
+        "description": {
+            "el": " ΧΑΡΟΚΟΠΙ",
+            "en": " XAROKOPI"
+        },
+        "lineNames": [
+            "01",
+            "03"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48100,
+        "code": "325",
+        "latitude": 39.6751738,
+        "longitude": 20.8380741,
+        "description": {
+            "el": "12 ΑΠΟΣΤΟΛΟΙ",
+            "en": "12 APOSTOLOI"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48093,
+        "code": "318",
+        "latitude": 39.67564,
+        "longitude": 20.837639,
+        "description": {
+            "el": "12 ΑΠΟΣΤΟΛΟΙ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "12 APOSTOLOI PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47953,
+        "code": "133",
+        "latitude": 39.6318537,
+        "longitude": 20.8711885,
+        "description": {
+            "el": "2o ΚΑΙ 4o ΝΗΠΙΑΓΩΓΕΙΟ ΑΝΑΤΟΛΗΣ",
+            "en": "2o k 4o NHPIAGWGEIO"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "08",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48060,
+        "code": "267",
+        "latitude": 39.6856356,
+        "longitude": 20.8359479,
+        "description": {
+            "el": "3 ΕΚΤΕΛΕΣΘΕΝΤΩΝ",
+            "en": "3 EKTELESTHENTWN"
+        },
+        "lineNames": [
+            "08",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48094,
+        "code": "319",
+        "latitude": 39.6697074,
+        "longitude": 20.8416642,
+        "description": {
+            "el": "40 ΣΚΑΛΙΑ",
+            "en": "40 SKALIA"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48087,
+        "code": "312",
+        "latitude": 39.669582,
+        "longitude": 20.841642,
+        "description": {
+            "el": "40 ΣΚΑΛΙΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "40 SKALIA PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48080,
+        "code": "305",
+        "latitude": 39.6602897,
+        "longitude": 20.8463605,
+        "description": {
+            "el": "5ο Κ.Α.Π.Η",
+            "en": "5o K.A.P.H"
+        },
+        "lineNames": [
+            "10",
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47901,
+        "code": "0750",
+        "latitude": 39.6100293,
+        "longitude": 20.9037375,
+        "description": {
+            "el": "CAMP KATSIKAS",
+            "en": "CAMP KATSIKAS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47902,
+        "code": "0760",
+        "latitude": 39.6099802,
+        "longitude": 20.9039236,
+        "description": {
+            "el": "CAMP KATSIKAS ΠΡΟΣ ΠΟΛΗ",
+            "en": "CAMP KATSIKAS TO TOWN"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48008,
+        "code": "215",
+        "latitude": 39.6767504,
+        "longitude": 20.8425446,
+        "description": {
+            "el": "CAMPING ΛΙΜΝΟΠΟΥΛΑ",
+            "en": "CAMPING LIMNOPOULA"
+        },
+        "lineNames": [
+            "05",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48137,
+        "code": "417",
+        "latitude": 39.64444,
+        "longitude": 20.848577,
+        "description": {
+            "el": "JUMBO",
+            "en": "JUMBO"
+        },
+        "lineNames": [
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48138,
+        "code": "418",
+        "latitude": 39.6447206,
+        "longitude": 20.848774,
+        "description": {
+            "el": "JUMBO ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "JUMBO PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48206,
+        "code": "603",
+        "latitude": 39.6100479,
+        "longitude": 20.8610453,
+        "description": {
+            "el": "PRAKTIKER",
+            "en": "PRAKTIKER"
+        },
+        "lineNames": [
+            "05",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48236,
+        "code": "652",
+        "latitude": 39.610277,
+        "longitude": 20.8614045,
+        "description": {
+            "el": "PRAKTIKER ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "PRAKTIKER PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48005,
+        "code": "212",
+        "latitude": 39.6709808,
+        "longitude": 20.8456008,
+        "description": {
+            "el": "ΑΓΙΑ ΑΙΚΑΤΕΡΙΝΗ ΑΡΧΙΜΑΝΔΡΕΙΟ",
+            "en": "AGIA AIKATERINH ARXIMANDREIO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "16",
+            "17",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48026,
+        "code": "233",
+        "latitude": 39.696445,
+        "longitude": 20.81707,
+        "description": {
+            "el": "ΑΓΙΑ ΕΛΕΝΗ",
+            "en": "AGIA ELENH"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48041,
+        "code": "248",
+        "latitude": 39.6961573,
+        "longitude": 20.8170723,
+        "description": {
+            "el": "ΑΓΙΑ ΕΛΕΝΗ",
+            "en": "AGIA ELENH"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47914,
+        "code": "101",
+        "latitude": 39.6631957,
+        "longitude": 20.8538057,
+        "description": {
+            "el": "ΑΓΙΑ ΜΑΡΙΝΑ",
+            "en": "AGIA MARINA"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48243,
+        "code": "741",
+        "latitude": 39.7254907,
+        "longitude": 20.8169415,
+        "description": {
+            "el": "ΑΓΙΑ ΜΑΡΙΝΑ ΚΕΝΤΡΙΚΗ",
+            "en": "AGIA MARINA KENTRIKH"
+        },
+        "lineNames": [
+            "04"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47965,
+        "code": "143",
+        "latitude": 39.6268585,
+        "longitude": 20.8829656,
+        "description": {
+            "el": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ",
+            "en": "AGIA PARASKEUH"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47975,
+        "code": "152",
+        "latitude": 39.626965,
+        "longitude": 20.883015,
+        "description": {
+            "el": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ ΠΡΟΣ  ΚΕΝΤΡΟ",
+            "en": "AGIA PARASKEUH PROS  KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47959,
+        "code": "138",
+        "latitude": 39.633255,
+        "longitude": 20.867626,
+        "description": {
+            "el": "ΑΓΙΑΣ ΣΟΦΙΑΣ",
+            "en": "AGIAS SOFIAS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "07",
+            "08",
+            "10",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47976,
+        "code": "153",
+        "latitude": 39.6313664,
+        "longitude": 20.8692431,
+        "description": {
+            "el": "ΑΓΙΑΣ ΣΟΦΙΑΣ ΚΑΙ ΣΟΥΜΕΛΑ",
+            "en": "AGIAS SOFIAS KAI SOUMELA"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "08",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48010,
+        "code": "217",
+        "latitude": 39.6763672,
+        "longitude": 20.8421879,
+        "description": {
+            "el": "ΑΓΙΟΣ ΓΕΩΡΓΙΟΣ",
+            "en": "AGIOS GEWRGIOS"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48030,
+        "code": "237",
+        "latitude": 39.700737,
+        "longitude": 20.812769,
+        "description": {
+            "el": "ΑΓΙΟΣ ΙΩΑΝΝΗΣ",
+            "en": "AGIOS IWANNHS"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47934,
+        "code": "121",
+        "latitude": 39.6400757,
+        "longitude": 20.8635241,
+        "description": {
+            "el": "ΑΓΙΟΣ ΙΩΑΝΝΗΣ",
+            "en": "AGIOS IWANNHS"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47937,
+        "code": "124",
+        "latitude": 39.641567,
+        "longitude": 20.863268,
+        "description": {
+            "el": "ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "AGIOS IWANNHS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48045,
+        "code": "252",
+        "latitude": 39.700756,
+        "longitude": 20.812502,
+        "description": {
+            "el": "ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "AGIOS IWANNHS PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48246,
+        "code": "801",
+        "latitude": 39.6588627,
+        "longitude": 20.8444507,
+        "description": {
+            "el": "ΑΓΙΟΣ ΣΠΥΡΙΔΩΝΑΣ",
+            "en": "AGIOS SPYRIDWNAS"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48247,
+        "code": "802",
+        "latitude": 39.6585142,
+        "longitude": 20.8440514,
+        "description": {
+            "el": "ΑΓΙΟΣ ΣΠΥΡΙΔΩΝΑΣ (ΠΡΟΣ ΠΛΑΤΕΙΑ)",
+            "en": "AGIOS SPYRIDWNAS (PROS PLATEIA)"
+        },
+        "lineNames": [
+            "12",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48024,
+        "code": "231",
+        "latitude": 39.6926144,
+        "longitude": 20.8213554,
+        "description": {
+            "el": "ΑΕΡΟΔΡΟΜΙΟ",
+            "en": "AERODROMIO"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48039,
+        "code": "246",
+        "latitude": 39.6925298,
+        "longitude": 20.8210187,
+        "description": {
+            "el": "ΑΕΡΟΔΡΟΜΙΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "AERODROMIO PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48121,
+        "code": "401",
+        "latitude": 39.6612723,
+        "longitude": 20.8513485,
+        "description": {
+            "el": "ΑΚΑΔΗΜΙΑΣ",
+            "en": "AKADHMIAS"
+        },
+        "lineNames": [
+            "09",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48124,
+        "code": "404",
+        "latitude": 39.6614731,
+        "longitude": 20.8517103,
+        "description": {
+            "el": "ΑΚΑΔΗΜΙΑΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "AKADHMIAS PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "09",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48002,
+        "code": "208",
+        "latitude": 39.6693058,
+        "longitude": 20.8487997,
+        "description": {
+            "el": "ΑΛΣΟΣ",
+            "en": "ALSOS"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "16",
+            "17",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48000,
+        "code": "206",
+        "latitude": 39.6702323,
+        "longitude": 20.8492273,
+        "description": {
+            "el": "ΑΛΣΟΣ ALEXIOS HOTEL",
+            "en": "ALSOS ALEXIOS HOTEL"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48230,
+        "code": "628",
+        "latitude": 39.5673603,
+        "longitude": 20.865451,
+        "description": {
+            "el": "ΑΜΒΡΟΣΙΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "AMBROSIA PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48203,
+        "code": "5800",
+        "latitude": 39.6680169,
+        "longitude": 20.8322343,
+        "description": {
+            "el": "ΑΜΜΟΣ",
+            "en": "AMMOS"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48066,
+        "code": "273",
+        "latitude": 39.689777,
+        "longitude": 20.865284,
+        "description": {
+            "el": "ΑΜΦΙΘΕΑ  2",
+            "en": "AMFITHEA  2"
+        },
+        "lineNames": [
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48071,
+        "code": "278",
+        "latitude": 39.689636,
+        "longitude": 20.865719,
+        "description": {
+            "el": "ΑΜΦΙΘΕΑ  ΣΙΛΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "AMFITHEA  SILO PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48064,
+        "code": "271",
+        "latitude": 39.6934863,
+        "longitude": 20.8616136,
+        "description": {
+            "el": "ΑΜΦΙΘΕΑ 1",
+            "en": "AMFITHEA 1"
+        },
+        "lineNames": [
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48072,
+        "code": "280",
+        "latitude": 39.6934691,
+        "longitude": 20.8618282,
+        "description": {
+            "el": "ΑΜΦΙΘΕΑ 1 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "AMFITHEA 1 PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48067,
+        "code": "274",
+        "latitude": 39.6875104,
+        "longitude": 20.8712172,
+        "description": {
+            "el": "ΑΜΦΙΘΕΑ ΑΦΕΤΗΡΙΑ",
+            "en": "AMFITHEA AFETHRIA"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48069,
+        "code": "276",
+        "latitude": 39.6882393,
+        "longitude": 20.8689189,
+        "description": {
+            "el": "ΑΜΦΙΘΕΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "AMFITHEA PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48070,
+        "code": "277",
+        "latitude": 39.687424,
+        "longitude": 20.871138,
+        "description": {
+            "el": "ΑΜΦΙΘΕΑ ΤΕΡΜΑ",
+            "en": "AMFITHEA TERMA"
+        },
+        "lineNames": [
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47936,
+        "code": "123",
+        "latitude": 39.6371841,
+        "longitude": 20.863554,
+        "description": {
+            "el": "ΑΝΑΤΟΛΗ ΚΕΝΤΡΟ",
+            "en": "ANATOLH KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47943,
+        "code": "128",
+        "latitude": 39.6377471,
+        "longitude": 20.8636992,
+        "description": {
+            "el": "ΑΝΑΤΟΛΗ ΠΡΟΣ ΚΕΝΤΡΟ ",
+            "en": "ANATOLH PROS KENTRO "
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48175,
+        "code": "463",
+        "latitude": 39.6411271,
+        "longitude": 20.8411714,
+        "description": {
+            "el": "ΑΝΘΟΥΠΟΛΗ 1",
+            "en": "ANTHOUPOLH 1"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48167,
+        "code": "454",
+        "latitude": 39.640835,
+        "longitude": 20.841206,
+        "description": {
+            "el": "ΑΝΘΟΥΠΟΛΗ 1 (ΠΡΟΣ ΚΕΝΤΡΟ)",
+            "en": "ANTHOUPOLH 1 (PROS KENTRO)"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48177,
+        "code": "465",
+        "latitude": 39.6433365,
+        "longitude": 20.8400227,
+        "description": {
+            "el": "ΑΝΘΟΥΠΟΛΗ 2",
+            "en": "ANTHOUPOLH 2"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48178,
+        "code": "467",
+        "latitude": 39.6445067,
+        "longitude": 20.83789,
+        "description": {
+            "el": "ΑΝΘΟΥΠΟΛΗ ΚΕΝΤΡΙΚΗ",
+            "en": "ANTHOUPOLH KENTRIKH"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48179,
+        "code": "469",
+        "latitude": 39.6479323,
+        "longitude": 20.8350327,
+        "description": {
+            "el": "ΑΝΘΟΥΠΟΛΗ ΠΑΥΛΟΥ",
+            "en": "ANTHOUPOLH PAULOU"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47911,
+        "code": "0870",
+        "latitude": 39.588511,
+        "longitude": 20.9117455,
+        "description": {
+            "el": "ΑΝΩ ΚΟΥΤΣΕΛΙΟ ΚΕΝΤΡΙΚΗ",
+            "en": "ANW KOUTSELIO KENTRIKH"
+        },
+        "lineNames": [
+            "02",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48240,
+        "code": "724",
+        "latitude": 39.7400833,
+        "longitude": 20.7632807,
+        "description": {
+            "el": "ΑΝΩ ΛΑΨΙΣΤΑ (ΚΕΝΤΡΙΚΗ)",
+            "en": "ANW LAPSISTA (KENTRIKH)"
+        },
+        "lineNames": [
+            "02",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47938,
+        "code": "125",
+        "latitude": 39.6349411,
+        "longitude": 20.8635979,
+        "description": {
+            "el": "ΑΠΟΘΗΚΕΣ ΕΝΩΣΗΣ",
+            "en": "APOTHHKES ENWSHS"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48248,
+        "code": "803",
+        "latitude": 39.6578911,
+        "longitude": 20.8428838,
+        "description": {
+            "el": "ΑΡΗ ΒΕΛΟΥΧΙΩΤΗ",
+            "en": "ARH BELOUXIWTH"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48250,
+        "code": "805",
+        "latitude": 39.6568294,
+        "longitude": 20.8415454,
+        "description": {
+            "el": "ΑΡΗ ΒΕΛΟΥΧΙΩΤΗ ΚΑΙ ΕΦΥΡΑΣ",
+            "en": "ARH BELOUXIWTH KAI EFYRAS"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48251,
+        "code": "806",
+        "latitude": 39.6568556,
+        "longitude": 20.8416997,
+        "description": {
+            "el": "ΑΡΗ ΒΕΛΟΥΧΙΩΤΗ ΚΑΙ ΕΦΥΡΑΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ARH BELOUXIWTH KAI EFYRAS PROS KENTRO"
+        },
+        "lineNames": [
+            "12",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48249,
+        "code": "804",
+        "latitude": 39.6578316,
+        "longitude": 20.842934,
+        "description": {
+            "el": "ΑΡΗ ΒΕΛΟΥΧΙΩΤΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ARH BELOUXIWTH PROS KENTRO"
+        },
+        "lineNames": [
+            "12",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47893,
+        "code": "0570",
+        "latitude": 39.6533131,
+        "longitude": 20.9389506,
+        "description": {
+            "el": "ΑΡΣΑΚΕΙΟ",
+            "en": "ARSAKEIO"
+        },
+        "lineNames": [
+            "01"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47894,
+        "code": "0580",
+        "latitude": 39.6533767,
+        "longitude": 20.9388703,
+        "description": {
+            "el": "ΑΡΣΑΚΕΙΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ARSAKEIO PROS KENTRO"
+        },
+        "lineNames": [
+            "01"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47897,
+        "code": "0710",
+        "latitude": 39.6170358,
+        "longitude": 20.8974746,
+        "description": {
+            "el": "ΑΣΒΕΣΤΑΡΙΑ",
+            "en": "ASBESTARIA"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47898,
+        "code": "0720",
+        "latitude": 39.6169914,
+        "longitude": 20.8977716,
+        "description": {
+            "el": "ΑΣΒΕΣΤΑΡΙΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ASBESTARIA PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48194,
+        "code": "5460",
+        "latitude": 39.6246422,
+        "longitude": 20.7777056,
+        "description": {
+            "el": "ΑΣΒΕΣΤΟΧΩΡΙ",
+            "en": "ASBESTOXWRI"
+        },
+        "lineNames": [
+            "06"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48195,
+        "code": "5470",
+        "latitude": 39.6244012,
+        "longitude": 20.7777489,
+        "description": {
+            "el": "ΑΣΒΕΣΤΟΧΩΡΙ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ASBESTOXWRI PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "06"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47996,
+        "code": "202",
+        "latitude": 39.6655316,
+        "longitude": 20.8528975,
+        "description": {
+            "el": "ΑΣΤΥΝΟΜΙΑ",
+            "en": "ASTYNOMIA"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "16",
+            "17",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47896,
+        "code": "0660",
+        "latitude": 39.6422118,
+        "longitude": 20.9499458,
+        "description": {
+            "el": "ΒΑΣΙΛΙΚΗ ΤΕΡΜΑ",
+            "en": "BASILIKH TERMA"
+        },
+        "lineNames": [
+            "01"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48013,
+        "code": "220",
+        "latitude": 39.673668,
+        "longitude": 20.841625,
+        "description": {
+            "el": "ΒΗΛΑΡΑ 1",
+            "en": "BHLARA 1"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48009,
+        "code": "216",
+        "latitude": 39.6724035,
+        "longitude": 20.8434799,
+        "description": {
+            "el": "ΒΗΛΑΡΑ 2",
+            "en": "BHLARA 2"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48237,
+        "code": "706",
+        "latitude": 39.7017816,
+        "longitude": 20.7504932,
+        "description": {
+            "el": "ΒΙ.ΠΕ 2 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "BI.PE 2 PROS KENTRO"
+        },
+        "lineNames": [
+            "13"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48256,
+        "code": "811",
+        "latitude": 39.6554559,
+        "longitude": 20.8240331,
+        "description": {
+            "el": "ΒΛΑΧΟΣΤΡΑΤΑ",
+            "en": "BLAXOSTRATA"
+        },
+        "lineNames": [
+            "12",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48189,
+        "code": "493",
+        "latitude": 39.635124,
+        "longitude": 20.835184,
+        "description": {
+            "el": "ΒΛΑΧΟΣΤΡΑΤΑ 1",
+            "en": "BLAXOSTRATA 1"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48257,
+        "code": "812",
+        "latitude": 39.6554024,
+        "longitude": 20.8239784,
+        "description": {
+            "el": "ΒΛΑΧΟΣΤΡΑΤΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "BLAXOSTRATA PROS KENTRO"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47925,
+        "code": "112",
+        "latitude": 39.6558961,
+        "longitude": 20.8586246,
+        "description": {
+            "el": "ΒΟΡΕΙΟΗΠΕΙΡΩΤΙΚΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "BOREIOHPEIRWTIKA PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "15",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48046,
+        "code": "253",
+        "latitude": 39.6947594,
+        "longitude": 20.7856987,
+        "description": {
+            "el": "ΒΟΥΝΟΠΛΑΓΙΑ",
+            "en": "BOUNOPLAGIA"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48278,
+        "code": "927",
+        "latitude": 39.6916953,
+        "longitude": 20.7848814,
+        "description": {
+            "el": "ΒΟΥΝΟΠΛΑΓΙΑ",
+            "en": "BOUNOPLAGIA"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48048,
+        "code": "255",
+        "latitude": 39.6920852,
+        "longitude": 20.7850772,
+        "description": {
+            "el": "ΒΟΥΝΟΠΛΑΓΙΑ ΚΕΝΤΡΙΚΗ",
+            "en": "BOUNOPLAGIA KENTRIKH"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48057,
+        "code": "264",
+        "latitude": 39.6948185,
+        "longitude": 20.7858376,
+        "description": {
+            "el": "ΒΟΥΝΟΠΛΑΓΙΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "BOUNOPLAGIA PROS KENTRO"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47928,
+        "code": "115",
+        "latitude": 39.6461618,
+        "longitude": 20.8616526,
+        "description": {
+            "el": "ΒΡΥΣΟΥΛΑ",
+            "en": "BRYSOULA"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47931,
+        "code": "118",
+        "latitude": 39.6463983,
+        "longitude": 20.8617071,
+        "description": {
+            "el": "ΒΡΥΣΟΥΛΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "BRYSOULA PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48170,
+        "code": "458",
+        "latitude": 39.6281582,
+        "longitude": 20.8387262,
+        "description": {
+            "el": "ΓΑΛΑ",
+            "en": "GALA"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47960,
+        "code": "139",
+        "latitude": 39.6302967,
+        "longitude": 20.8784277,
+        "description": {
+            "el": "ΓΑΛΑΚΤΟΚΟΜΙΚΗ",
+            "en": "GALAKTOKOMIKH"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47971,
+        "code": "148",
+        "latitude": 39.6303312,
+        "longitude": 20.8786599,
+        "description": {
+            "el": "ΓΑΛΑΚΤΟΚΟΜΙΚΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "GALAKTOKOMIKH PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47944,
+        "code": "1280",
+        "latitude": 39.595165,
+        "longitude": 20.913958,
+        "description": {
+            "el": "ΓΗΠΕΔΟ ΚΟΥΤΣΕΛΙΟΥ",
+            "en": "GHPEDO KOUTSELIOU"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47946,
+        "code": "1290",
+        "latitude": 39.5952393,
+        "longitude": 20.9140468,
+        "description": {
+            "el": "ΓΗΠΕΔΟ ΚΟΥΤΣΕΛΙΟΥ  ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "GHPEDO KOUTSELIOU  PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48006,
+        "code": "213",
+        "latitude": 39.6747703,
+        "longitude": 20.8439607,
+        "description": {
+            "el": "ΓΗΡΟΚΟΜΕΙΟ",
+            "en": "GHROKOMEIO"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47917,
+        "code": "105",
+        "latitude": 39.6588602,
+        "longitude": 20.855953,
+        "description": {
+            "el": "ΓΙΩΤΟΠΟΥΛΟΣ",
+            "en": "GIWTOPOULOS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48036,
+        "code": "243",
+        "latitude": 39.7074682,
+        "longitude": 20.8006476,
+        "description": {
+            "el": "ΓΡΑΒΑΝΗ",
+            "en": "GRABANH"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "08",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48051,
+        "code": "258",
+        "latitude": 39.7073862,
+        "longitude": 20.8006202,
+        "description": {
+            "el": "ΓΡΑΒΑΝΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "GRABANH PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48267,
+        "code": "825",
+        "latitude": 39.605915,
+        "longitude": 20.8419533,
+        "description": {
+            "el": "ΓΡΑΤΣΑΝΗΣ",
+            "en": "GRATSANHS"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48003,
+        "code": "209",
+        "latitude": 39.6733763,
+        "longitude": 20.845384,
+        "description": {
+            "el": "ΓΡΙΒΑ",
+            "en": "GRIBA"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "05",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48007,
+        "code": "214",
+        "latitude": 39.6731843,
+        "longitude": 20.845138,
+        "description": {
+            "el": "ΓΡΙΒΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "GRIBA PROS KENTRO"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47999,
+        "code": "205",
+        "latitude": 39.6702607,
+        "longitude": 20.8508018,
+        "description": {
+            "el": "ΓΥΑΛΙ ΚΑΦΕΝΕ",
+            "en": "GYALI KAFENE"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "05",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47948,
+        "code": "1300",
+        "latitude": 39.5934075,
+        "longitude": 20.914419,
+        "description": {
+            "el": "ΓΥΜΝΑΣΙΟ ΚΟΥΤΣΕΛΙΟΥ",
+            "en": "GYMNASIO KOUTSELIOU"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47950,
+        "code": "1310",
+        "latitude": 39.593489,
+        "longitude": 20.9145801,
+        "description": {
+            "el": "ΓΥΜΝΑΣΙΟ ΚΟΥΤΣΕΛΙΟΥ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "GYMNASIO KOUTSELIOU PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47918,
+        "code": "106",
+        "latitude": 39.6645918,
+        "longitude": 20.8570864,
+        "description": {
+            "el": "Δ.Ε.Η",
+            "en": "D.E.H"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "15",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48115,
+        "code": "345",
+        "latitude": 39.6855689,
+        "longitude": 20.8156038,
+        "description": {
+            "el": "ΔΕΣΜΟΣ",
+            "en": "DESMOS"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47939,
+        "code": "126",
+        "latitude": 39.6390357,
+        "longitude": 20.8636676,
+        "description": {
+            "el": "ΔΗΜΑΡΧΕΙΟ ΑΝΑΤΟΛΗΣ",
+            "en": "DHMARXEIO ANATOLHS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48042,
+        "code": "249",
+        "latitude": 39.7028724,
+        "longitude": 20.7890111,
+        "description": {
+            "el": "ΔΗΜΑΡΧΕΙΟ ΕΛΕΟΥΣΑΣ",
+            "en": "DHMARXEIO ELEOUSAS"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "06",
+            "08",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47967,
+        "code": "145",
+        "latitude": 39.6242952,
+        "longitude": 20.8864496,
+        "description": {
+            "el": "ΔΗΜΟΤΙΚΟ ΚΑΤΣΙΚΑΣ",
+            "en": "DHMOTIKO KATSIKAS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47977,
+        "code": "154",
+        "latitude": 39.62466,
+        "longitude": 20.8861249,
+        "description": {
+            "el": "ΔΗΜΟΤΙΚΟ ΚΑΤΣΙΚΑΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "DHMOTIKO KATSIKAS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47929,
+        "code": "116",
+        "latitude": 39.6496958,
+        "longitude": 20.8603417,
+        "description": {
+            "el": "ΔΙΑΣΤΑΥΡΗΣΗ ΑΝΑΤΟΛΗΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "DIASTAURHSH ANATOLHS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "15",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47926,
+        "code": "113",
+        "latitude": 39.649175,
+        "longitude": 20.8604421,
+        "description": {
+            "el": "ΔΙΑΣΤΑΥΡΩΣΗ ΑΝΑΤΟΛΗΣ",
+            "en": "DIASTAURWSH ANATOLHS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48145,
+        "code": "427",
+        "latitude": 39.6273528,
+        "longitude": 20.8483705,
+        "description": {
+            "el": "ΔΙΕΘΝΕΣ",
+            "en": "DIETHNES"
+        },
+        "lineNames": [
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48151,
+        "code": "436",
+        "latitude": 39.6269591,
+        "longitude": 20.8485314,
+        "description": {
+            "el": "ΔΙΕΘΝΕΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "DIETHNES PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48120,
+        "code": "400",
+        "latitude": 39.6629252,
+        "longitude": 20.8517714,
+        "description": {
+            "el": "ΔΙΚΑΣΤΙΚΟ ΜΕΓΑΡΟ",
+            "en": "DIKASTIKO MEGARO"
+        },
+        "lineNames": [
+            "09",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48127,
+        "code": "407",
+        "latitude": 39.6547903,
+        "longitude": 20.8491124,
+        "description": {
+            "el": "ΔΟΜΠΟΛΗ",
+            "en": "DOMPOLH"
+        },
+        "lineNames": [
+            "09",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48118,
+        "code": "355",
+        "latitude": 39.6589306334793,
+        "longitude": 20.8450297172595,
+        "description": {
+            "el": "ΔΟΜΠΟΛΗ ΚΑΙ ΠΛΑΤΕΙΑ ΟΜΗΡΟΥ",
+            "en": "DOMPOLH KAI PLATEIA OMHROU"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48130,
+        "code": "410",
+        "latitude": 39.6552958,
+        "longitude": 20.8496883,
+        "description": {
+            "el": "ΔΟΜΠΟΛΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "DOMPOLH PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "09",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48198,
+        "code": "5740",
+        "latitude": 39.662837,
+        "longitude": 20.8391576,
+        "description": {
+            "el": "ΔΡΟΣΙΑ 1",
+            "en": "DROSIA 1"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48199,
+        "code": "5750",
+        "latitude": 39.6641775,
+        "longitude": 20.838453,
+        "description": {
+            "el": "ΔΡΟΣΙΑ 2",
+            "en": "DROSIA 2"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48200,
+        "code": "5760",
+        "latitude": 39.666097,
+        "longitude": 20.8372536,
+        "description": {
+            "el": "ΔΡΟΣΙΑ 3",
+            "en": "DROSIA 3"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48201,
+        "code": "5770",
+        "latitude": 39.6672606,
+        "longitude": 20.836302,
+        "description": {
+            "el": "ΔΡΟΣΙΑ 4",
+            "en": "DROSIA 4"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48191,
+        "code": "5250",
+        "latitude": 39.66233,
+        "longitude": 20.837729,
+        "description": {
+            "el": "ΔΡΟΣΙΑ ΚΕΝΤΡΟ - ΖΕΥΓΑΡΙΑ",
+            "en": "DROSIA KENTRO - ZEUGARIA"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48131,
+        "code": "411",
+        "latitude": 39.6491615,
+        "longitude": 20.8453018,
+        "description": {
+            "el": "Ε.Π.Α.Λ",
+            "en": "E.P.A.L"
+        },
+        "lineNames": [
+            "09",
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48092,
+        "code": "317",
+        "latitude": 39.6682219,
+        "longitude": 20.8430339,
+        "description": {
+            "el": "ΕΒΡΑΙΚΑ ΜΝΗΜΑΤΑ",
+            "en": "EBRAIKA MNHMATA"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48085,
+        "code": "310",
+        "latitude": 39.6681083,
+        "longitude": 20.8430022,
+        "description": {
+            "el": "ΕΒΡΑΙΚΑ ΜΝΗΜΑΤΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "EBRAIKA MNHMATA PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48132,
+        "code": "412",
+        "latitude": 39.653484,
+        "longitude": 20.848347,
+        "description": {
+            "el": "ΕΘΝΙΚΗ ΤΡΑΠΕΖΑ",
+            "en": "ETHNIKH TRAPEZA"
+        },
+        "lineNames": [
+            "02",
+            "09",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48228,
+        "code": "626",
+        "latitude": 39.5889787,
+        "longitude": 20.8620327,
+        "description": {
+            "el": "ΕΙΣΟΔΟ ΚΑΙΣΑΡΙΑΣ",
+            "en": "EISODO KAISARIAS"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48055,
+        "code": "262",
+        "latitude": 39.7057082,
+        "longitude": 20.7927983,
+        "description": {
+            "el": "ΕΛΕΟΥΣΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ELEOUSA PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48219,
+        "code": "617",
+        "latitude": 39.5926053,
+        "longitude": 20.8749763,
+        "description": {
+            "el": "ΕΛΕΠΑΠ",
+            "en": "ELEPAP"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48218,
+        "code": "616",
+        "latitude": 39.5926718,
+        "longitude": 20.8750685,
+        "description": {
+            "el": "ΕΛΕΠΑΠ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ELEPAP PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48155,
+        "code": "442",
+        "latitude": 39.615906,
+        "longitude": 20.84672,
+        "description": {
+            "el": "ΕΞΟΔΟΣ ΠΑΝΕΠΙΣΤΗΜΙΟΥ",
+            "en": "EXODOS PANEPISTHMIOU"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48276,
+        "code": "913",
+        "latitude": 39.5393691,
+        "longitude": 20.8549652,
+        "description": {
+            "el": "ΕΠΙΣΚΟΠΙΚΟ",
+            "en": "EPISKOPIKO"
+        },
+        "lineNames": [
+            "02",
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47933,
+        "code": "120",
+        "latitude": 39.6444929,
+        "longitude": 20.8623642,
+        "description": {
+            "el": "ΕΡΓ. ΚΑΤ. ΒΡΥΣΟΥΛΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ERG. KAT. BRYSOULA PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47930,
+        "code": "117",
+        "latitude": 39.64441,
+        "longitude": 20.862217,
+        "description": {
+            "el": "ΕΡΓΑΤΙΚΕΣ ΚΑΤΟΙΚΙΕΣ ΒΡΥΣΟΥΛΑ",
+            "en": "ERGATIKES KATOIKIES BRYSOULA"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48264,
+        "code": "819",
+        "latitude": 39.6577126,
+        "longitude": 20.8127425,
+        "description": {
+            "el": "ΕΡΓΑΤΙΚΕΣ ΣΤΑΥΡΑΚΙ",
+            "en": "ERGATIKES STAURAKI"
+        },
+        "lineNames": [
+            "12",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48265,
+        "code": "820",
+        "latitude": 39.6577139,
+        "longitude": 20.8126025,
+        "description": {
+            "el": "ΕΡΓΑΤΙΚΕΣ ΣΤΑΥΡΑΚΙ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ERGATIKES STAURAKI PROS KENTRO"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48034,
+        "code": "241",
+        "latitude": 39.7059391,
+        "longitude": 20.80535,
+        "description": {
+            "el": "ΕΡΓΟΣΤΑΣΙΟ ΔΩΔΩΝΗΣ",
+            "en": "ERGOSTASIO DWDWNHS"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48049,
+        "code": "256",
+        "latitude": 39.7058077,
+        "longitude": 20.8052182,
+        "description": {
+            "el": "ΕΡΓΟΣΤΑΣΤΙΟ ΔΩΔΩΝΗΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ERGOSTASTIO DWDWNHS PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48117,
+        "code": "353",
+        "latitude": 39.6545924,
+        "longitude": 20.8464986,
+        "description": {
+            "el": "ΕΦΟΡΙΑ",
+            "en": "EFORIA"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48158,
+        "code": "445",
+        "latitude": 39.6177568,
+        "longitude": 20.8469354,
+        "description": {
+            "el": "ΕΦΥΡΑ",
+            "en": "EFYRA"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48153,
+        "code": "440",
+        "latitude": 39.61772,
+        "longitude": 20.847103,
+        "description": {
+            "el": "ΕΦΥΡΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "EFYRA PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48020,
+        "code": "227",
+        "latitude": 39.6889522,
+        "longitude": 20.8282352,
+        "description": {
+            "el": "ΖΑΜΠΙΡΗ",
+            "en": "ZAMPIRH"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48035,
+        "code": "242",
+        "latitude": 39.68887,
+        "longitude": 20.828012,
+        "description": {
+            "el": "ΖΑΜΠΙΡΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ZAMPIRH PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48205,
+        "code": "5820",
+        "latitude": 39.6596611,
+        "longitude": 20.8403798,
+        "description": {
+            "el": "ΖΕΥΓΑΡΙΑ 2",
+            "en": "ZEUGARIA 2"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47978,
+        "code": "155",
+        "latitude": 39.6458933,
+        "longitude": 20.8630252,
+        "description": {
+            "el": "ΖΙΩΓΑ",
+            "en": "ZIWGA"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47994,
+        "code": "170",
+        "latitude": 39.6459323,
+        "longitude": 20.8631351,
+        "description": {
+            "el": "ΖΙΩΓΑΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "ZIWGAS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47991,
+        "code": "1660",
+        "latitude": 39.6179402,
+        "longitude": 20.968756,
+        "description": {
+            "el": "ΗΛΙΟΚΑΛΗ ",
+            "en": "HLIOKALH "
+        },
+        "lineNames": [
+            "01",
+            "03"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48231,
+        "code": "629",
+        "latitude": 39.5876138,
+        "longitude": 20.8619363,
+        "description": {
+            "el": "ΗΠΕΙΡΟΣ ΠΑΛΛΑΣ",
+            "en": "HPEIROS PALLAS"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48001,
+        "code": "207",
+        "latitude": 39.6722245,
+        "longitude": 20.8469088,
+        "description": {
+            "el": "Ι.Κ.Α",
+            "en": "I.K.A"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "05",
+            "08",
+            "13",
+            "16",
+            "17",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47889,
+        "code": "210",
+        "latitude": 39.672024,
+        "longitude": 20.847076,
+        "description": {
+            "el": "ΙΚΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "IKA PROS KENTRO"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47985,
+        "code": "161",
+        "latitude": 39.6387041,
+        "longitude": 20.8690666,
+        "description": {
+            "el": "ΙΩΑΝΝΟΥ",
+            "en": "IWANNOU"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47988,
+        "code": "164",
+        "latitude": 39.63853,
+        "longitude": 20.869438,
+        "description": {
+            "el": "ΙΩΑΝΝΟΥ (ΑΠΕΝΑΝΤΙ)",
+            "en": "IWANNOU (APENANTI)"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48181,
+        "code": "473",
+        "latitude": 39.643417,
+        "longitude": 20.828665,
+        "description": {
+            "el": "Κ. ΜΑΡΜΑΡΑ 2",
+            "en": "K. MARMARA 2"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48182,
+        "code": "475",
+        "latitude": 39.6413021,
+        "longitude": 20.8250066,
+        "description": {
+            "el": "Κ. ΜΑΡΜΑΡΑ 3",
+            "en": "K. MARMARA 3"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48183,
+        "code": "479",
+        "latitude": 39.6388379,
+        "longitude": 20.8250096,
+        "description": {
+            "el": "Κ. ΜΑΡΜΑΡΑ 4",
+            "en": "K. MARMARA 4"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48184,
+        "code": "481",
+        "latitude": 39.6391424,
+        "longitude": 20.8259097,
+        "description": {
+            "el": "Κ. ΜΑΡΜΑΡΑ 5",
+            "en": "K. MARMARA 5"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48185,
+        "code": "483",
+        "latitude": 39.637787,
+        "longitude": 20.8282986,
+        "description": {
+            "el": "Κ. ΜΑΡΜΑΡΑ 6",
+            "en": "K. MARMARA 6"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48186,
+        "code": "485",
+        "latitude": 39.6376831,
+        "longitude": 20.8290803,
+        "description": {
+            "el": "Κ. ΜΑΡΜΑΡΑ 7",
+            "en": "K. MARMARA 7"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48187,
+        "code": "487",
+        "latitude": 39.6401231,
+        "longitude": 20.8299897,
+        "description": {
+            "el": "Κ. ΜΑΡΜΑΡΑ 8",
+            "en": "K. MARMARA 8"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48188,
+        "code": "489",
+        "latitude": 39.6413871,
+        "longitude": 20.831225,
+        "description": {
+            "el": "Κ. ΜΑΡΜΑΡΑ 9",
+            "en": "K. MARMARA 9"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47958,
+        "code": "137",
+        "latitude": 39.6320343,
+        "longitude": 20.8762601,
+        "description": {
+            "el": "ΚΑΒΑΦΗ",
+            "en": "KABAFH"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47969,
+        "code": "146",
+        "latitude": 39.632181,
+        "longitude": 20.876281,
+        "description": {
+            "el": "ΚΑΒΑΦΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KABAFH PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48223,
+        "code": "621",
+        "latitude": 39.5877132,
+        "longitude": 20.8768596,
+        "description": {
+            "el": "ΚΑΙΣΑΡΕΙΑ ",
+            "en": "KAISAREIA "
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48222,
+        "code": "620",
+        "latitude": 39.5877769,
+        "longitude": 20.8768186,
+        "description": {
+            "el": "ΚΑΙΣΑΡΕΙΑ  ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KAISAREIA  PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48221,
+        "code": "619",
+        "latitude": 39.5904641,
+        "longitude": 20.8760796,
+        "description": {
+            "el": "ΚΑΙΣΑΡΕΙΑ 1",
+            "en": "KAISAREIA 1"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48220,
+        "code": "618",
+        "latitude": 39.59039,
+        "longitude": 20.876184,
+        "description": {
+            "el": "ΚΑΙΣΑΡΕΙΑ 1  ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KAISAREIA 1  PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48224,
+        "code": "622",
+        "latitude": 39.5877096,
+        "longitude": 20.873127,
+        "description": {
+            "el": "ΚΑΙΣΑΡΕΙΑ 2 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KAISAREIA 2 PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48227,
+        "code": "625",
+        "latitude": 39.5881008,
+        "longitude": 20.869515,
+        "description": {
+            "el": "ΚΑΙΣΑΡΕΙΑ 3",
+            "en": "KAISAREIA 3"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48226,
+        "code": "624",
+        "latitude": 39.5881395,
+        "longitude": 20.8697262,
+        "description": {
+            "el": "ΚΑΙΣΑΡΕΙΑ 3 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KAISAREIA 3 PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48225,
+        "code": "623",
+        "latitude": 39.5876323,
+        "longitude": 20.8731435,
+        "description": {
+            "el": "ΚΑΙΣΑΡΙΑ 2",
+            "en": "KAISARIA 2"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48014,
+        "code": "221",
+        "latitude": 39.6821158,
+        "longitude": 20.8361369,
+        "description": {
+            "el": "ΚΑΛΟΓΕΡΑΚΙ",
+            "en": "KALOGERAKI"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "05",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48029,
+        "code": "236",
+        "latitude": 39.6815689,
+        "longitude": 20.8365075,
+        "description": {
+            "el": "ΚΑΛΟΓΕΡΑΚΙ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KALOGERAKI PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48027,
+        "code": "234",
+        "latitude": 39.6795281,
+        "longitude": 20.8369596,
+        "description": {
+            "el": "ΚΑΛΠΑΚΙΟΥ",
+            "en": "KALPAKIOU"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47964,
+        "code": "142",
+        "latitude": 39.635403,
+        "longitude": 20.87178,
+        "description": {
+            "el": "ΚΑΡΑΜΑΝΛΗ 1",
+            "en": "KARAMANLH 1"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47962,
+        "code": "140",
+        "latitude": 39.634632,
+        "longitude": 20.870062,
+        "description": {
+            "el": "ΚΑΡΑΜΑΝΛΗ 2",
+            "en": "KARAMANLH 2"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48111,
+        "code": "337",
+        "latitude": 39.6797264,
+        "longitude": 20.8207136,
+        "description": {
+            "el": "ΚΑΡΔΑΜΙΤΣΙΑ 1",
+            "en": "KARDAMITSIA 1"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48112,
+        "code": "339",
+        "latitude": 39.678514,
+        "longitude": 20.816824,
+        "description": {
+            "el": "ΚΑΡΔΑΜΙΤΣΙΑ 2",
+            "en": "KARDAMITSIA 2"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48113,
+        "code": "341",
+        "latitude": 39.6809615,
+        "longitude": 20.8165503,
+        "description": {
+            "el": "ΚΑΡΔΑΜΙΤΣΙΑ 3 ",
+            "en": "KARDAMITSIA 3 "
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48114,
+        "code": "343",
+        "latitude": 39.6829661,
+        "longitude": 20.815191,
+        "description": {
+            "el": "ΚΑΡΔΑΜΙΤΣΙΑ 4",
+            "en": "KARDAMITSIA 4"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47956,
+        "code": "135",
+        "latitude": 39.6335493,
+        "longitude": 20.8743856,
+        "description": {
+            "el": "ΚΑΤΡΑΧΟΥΡΑ ",
+            "en": "KATRAXOURA "
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47966,
+        "code": "144",
+        "latitude": 39.633916,
+        "longitude": 20.8742001,
+        "description": {
+            "el": "ΚΑΤΡΑΧΟΥΡΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KATRAXOURA PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47972,
+        "code": "149",
+        "latitude": 39.6223233,
+        "longitude": 20.889557,
+        "description": {
+            "el": "ΚΑΤΣΙΚΑΣ",
+            "en": "KATSIKAS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47982,
+        "code": "158",
+        "latitude": 39.622489,
+        "longitude": 20.8894263,
+        "description": {
+            "el": "ΚΑΤΣΙΚΑΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KATSIKAS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48238,
+        "code": "714",
+        "latitude": 39.7512099,
+        "longitude": 20.7491307,
+        "description": {
+            "el": "ΚΑΤΩ ΛΑΨΙΣΤΑ (ΚΕΝΤΡΙΚΗ)",
+            "en": "KATW LAPSISTA (KENTRIKH)"
+        },
+        "lineNames": [
+            "02",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48180,
+        "code": "471",
+        "latitude": 39.644848,
+        "longitude": 20.830833,
+        "description": {
+            "el": "ΚΑΤΩ ΜΑΡΜΑΡΑ 1",
+            "en": "KATW MARMARA 1"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47891,
+        "code": "0380",
+        "latitude": 39.6263598,
+        "longitude": 20.9702439,
+        "description": {
+            "el": "ΚΕΝΤΡΙΚΗ ΔΡΟΣΟΧΩΡΙ",
+            "en": "KENTRIKH DROSOXWRI"
+        },
+        "lineNames": [
+            "01"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47892,
+        "code": "0460",
+        "latitude": 39.632225,
+        "longitude": 20.922018,
+        "description": {
+            "el": "ΚΕΝΤΡΙΚΗ ΚΑΣΤΡΙΤΣΑΣ",
+            "en": "KENTRIKH KASTRITSAS"
+        },
+        "lineNames": [
+            "01",
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47919,
+        "code": "1060",
+        "latitude": 39.5503588,
+        "longitude": 20.9585408,
+        "description": {
+            "el": "ΚΕΝΤΡΙΚΗ ΠΛΑΤΕΙΑ ΕΛΛΗΝΙΚΟ",
+            "en": "KENTRIKH PLATEIA ELLHNIKO"
+        },
+        "lineNames": [
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48068,
+        "code": "275",
+        "latitude": 39.6881705,
+        "longitude": 20.8689,
+        "description": {
+            "el": "ΚΕΝΤΡΟ ΑΜΦΙΘΕΑΣ",
+            "en": "AMFITHEA KENTRO"
+        },
+        "lineNames": [
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48040,
+        "code": "247",
+        "latitude": 39.7057706,
+        "longitude": 20.7927412,
+        "description": {
+            "el": "ΚΕΝΤΡΟ ΕΛΕΟΥΣΑΣ",
+            "en": "KENTRO ELEOUSAS"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "08",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47952,
+        "code": "1320",
+        "latitude": 39.5887627,
+        "longitude": 20.9166224,
+        "description": {
+            "el": "ΚΕΝΤΡΟ ΚΟΥΤΣΕΛΙΟΥ",
+            "en": "KENTRO KOUTSELIOU"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47932,
+        "code": "119",
+        "latitude": 39.6430435,
+        "longitude": 20.8626595,
+        "description": {
+            "el": "ΚΕΡΑΜΙΔΑΡΙΟ",
+            "en": "KERAMIDARIO"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47935,
+        "code": "122",
+        "latitude": 39.6431174,
+        "longitude": 20.8627648,
+        "description": {
+            "el": "ΚΕΡΑΜΙΔΑΡΙΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KERAMIDARIO PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48125,
+        "code": "405",
+        "latitude": 39.6567152,
+        "longitude": 20.8502756,
+        "description": {
+            "el": "ΚΛΙΝΙΚΗ ΜΗΤΕΡΑ",
+            "en": "KLINIKH MHTERA"
+        },
+        "lineNames": [
+            "09",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48128,
+        "code": "408",
+        "latitude": 39.656568,
+        "longitude": 20.8504368,
+        "description": {
+            "el": "ΚΛΙΝΙΚΗ ΜΗΤΕΡΑ  ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KLINIKH MHTERA  PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "09",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48012,
+        "code": "219",
+        "latitude": 39.679302,
+        "longitude": 20.8391069,
+        "description": {
+            "el": "ΚΟΛΥΜΒΗΤΗΡΙΟ",
+            "en": "KOLYMBHTHRIO"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "05",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48023,
+        "code": "230",
+        "latitude": 39.67979,
+        "longitude": 20.838337,
+        "description": {
+            "el": "ΚΟΛΥΜΒΗΤΗΡΙΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KOLYMBHTHRIO PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48156,
+        "code": "443",
+        "latitude": 39.622604,
+        "longitude": 20.847994,
+        "description": {
+            "el": "ΚΟΜΒΟΣ Γ. Π. Ν. Ι.",
+            "en": "KOMBOS G. P. N. I."
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47993,
+        "code": "1680",
+        "latitude": 39.5978771987543,
+        "longitude": 20.9128580367321,
+        "description": {
+            "el": "ΚΟΜΒΟΣ ΕΓΝΑΤΙΑΣ",
+            "en": "KOMBOS EGNATIAS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47940,
+        "code": "1260",
+        "latitude": 39.5986702,
+        "longitude": 20.9091613,
+        "description": {
+            "el": "ΚΟΜΒΟΣ ΚΟΥΤΣΕΛΙΟΥ ΕΛΛΗΝΙΚΟ ΧΑΝΙ",
+            "en": "KOMBOS KOUTSELIOU ELLHNIKO XANI"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47907,
+        "code": "0810",
+        "latitude": 39.5984458,
+        "longitude": 20.9086753,
+        "description": {
+            "el": "ΚΟΜΒΟΣ ΚΟΥΤΣΕΛΙΟΥ ΕΛΛΗΝΙΚΟΥ",
+            "en": "KOMBOS KOUTSELIOU ELLHNIKOU"
+        },
+        "lineNames": [
+            "02",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47908,
+        "code": "0820",
+        "latitude": 39.5984689,
+        "longitude": 20.9088257,
+        "description": {
+            "el": "ΚΟΜΒΟΣ ΚΟΥΤΣΕΛΙΟΥ ΕΛΛΗΝΙΚΟΥ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KOMBOS KOUTSELIOU ELLHNIKOU PROS KENTRO"
+        },
+        "lineNames": [
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48207,
+        "code": "605",
+        "latitude": 39.6022671,
+        "longitude": 20.8626594,
+        "description": {
+            "el": "ΚΟΜΒΟΣ ΜΠΑΦΡΑΣ",
+            "en": "KOMBOS MPAFRAS"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48152,
+        "code": "438",
+        "latitude": 39.622707,
+        "longitude": 20.848244,
+        "description": {
+            "el": "ΚΟΜΒΟΣ Π.Γ.Ν.Ι. ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KOMBOS P.G.N.I. PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48015,
+        "code": "222",
+        "latitude": 39.6745001,
+        "longitude": 20.8405627,
+        "description": {
+            "el": "ΚΟΜΝΗΝΩΝ",
+            "en": "KOMNHNWN"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48196,
+        "code": "5520",
+        "latitude": 39.6397723,
+        "longitude": 20.7582065,
+        "description": {
+            "el": "ΚΟΝΤΣΙΚΑ",
+            "en": "KONTSIKA"
+        },
+        "lineNames": [
+            "02",
+            "06"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48192,
+        "code": "5420",
+        "latitude": 39.5901845,
+        "longitude": 20.8024292,
+        "description": {
+            "el": "ΚΟΣΜΗΡΑ ",
+            "en": "KOSMHRA "
+        },
+        "lineNames": [
+            "06"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48193,
+        "code": "5430",
+        "latitude": 39.5901278,
+        "longitude": 20.8023156,
+        "description": {
+            "el": "ΚΟΣΜΗΡΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KOSMHRA PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "06"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48025,
+        "code": "232",
+        "latitude": 39.6787767,
+        "longitude": 20.837246,
+        "description": {
+            "el": "ΚΟΤΟΠΟΥΛΗ 1",
+            "en": "KOTOPOULH 1"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48021,
+        "code": "228",
+        "latitude": 39.6775436,
+        "longitude": 20.8384167,
+        "description": {
+            "el": "ΚΟΤΟΠΟΥΛΗ 2",
+            "en": "KOTOPOULH 2"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48017,
+        "code": "224",
+        "latitude": 39.6760877,
+        "longitude": 20.8398896,
+        "description": {
+            "el": "ΚΟΤΟΠΟΥΛΗ 3",
+            "en": "KOTOPOULH 3"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48022,
+        "code": "229",
+        "latitude": 39.6909851,
+        "longitude": 20.8250241,
+        "description": {
+            "el": "ΚΟΥΜΠΟΥΛΗ",
+            "en": "KOUMPOULH"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48037,
+        "code": "244",
+        "latitude": 39.690468,
+        "longitude": 20.82544,
+        "description": {
+            "el": "ΚΟΥΜΠΟΥΛΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KOUMPOULH PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48281,
+        "code": "947",
+        "latitude": 39.745116149201976,
+        "longitude": 20.792472800205946,
+        "description": {
+            "el": "ΚΡΑΝΟΥΛΑ ΚΕΝΤΡΙΚΗ",
+            "en": "KRANOULA CENTER"
+        },
+        "lineNames": [
+            "04"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48244,
+        "code": "745",
+        "latitude": 39.7450133,
+        "longitude": 20.7923935,
+        "description": {
+            "el": "ΚΡΑΝΟΥΛΑ ΚΕΝΤΡΙΚΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KRANOULA KENTRIKH"
+        },
+        "lineNames": [
+            "04"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48242,
+        "code": "737",
+        "latitude": 39.7198107,
+        "longitude": 20.8347499,
+        "description": {
+            "el": "ΚΡΥΑ ΚΕΝΤΡΙΚΗ",
+            "en": "KRYA KENTRIKH"
+        },
+        "lineNames": [
+            "04"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48241,
+        "code": "736",
+        "latitude": 39.7197169,
+        "longitude": 20.8347103,
+        "description": {
+            "el": "ΚΡΥΑ ΚΕΝΤΡΙΚΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KRYA KENTRIKH PROS KENTRO"
+        },
+        "lineNames": [
+            "04"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48004,
+        "code": "211",
+        "latitude": 39.6747749,
+        "longitude": 20.8456514,
+        "description": {
+            "el": "ΚΤΕΛ",
+            "en": "KTEL"
+        },
+        "lineNames": [
+            "05",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48043,
+        "code": "250",
+        "latitude": 39.6986558,
+        "longitude": 20.8146925,
+        "description": {
+            "el": "ΚΥΡΙΑΖΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KYRIAZH PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48028,
+        "code": "235",
+        "latitude": 39.6987625,
+        "longitude": 20.8147993,
+        "description": {
+            "el": "ΚΥΡΙΑΖΗΣ",
+            "en": "KYRIAZHS"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47970,
+        "code": "147",
+        "latitude": 39.6231039,
+        "longitude": 20.8881833,
+        "description": {
+            "el": "ΚΩΝ/ΝΟΥ κ ΕΛΕΝΗΣ ΚΑΤΣΙΚΑΣ",
+            "en": "KWN/NOU k ELENHS KATSIKAS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48011,
+        "code": "218",
+        "latitude": 39.6738066,
+        "longitude": 20.8427846,
+        "description": {
+            "el": "ΚΩΝ/ΝΟΥ κ ΕΛΕΝΗΣ ΚΟΜΝΗΝΩΝ",
+            "en": "KWN/NOU k ELENHS KOMNHNWN"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47979,
+        "code": "156",
+        "latitude": 39.6230673,
+        "longitude": 20.8884055,
+        "description": {
+            "el": "ΚΩΝ/ΝΟΥ ΚΑΙ ΕΛΕΝΗΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KWN/NOU K ELENHS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48229,
+        "code": "627",
+        "latitude": 39.6030178,
+        "longitude": 20.861654,
+        "description": {
+            "el": "ΚΩΣΤΑ ΛΙΑΣ",
+            "en": "KWSTA LIAS"
+        },
+        "lineNames": [
+            "05",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48234,
+        "code": "648",
+        "latitude": 39.6029194,
+        "longitude": 20.8620576,
+        "description": {
+            "el": "ΚΩΣΤΑ ΛΙΑΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KWSTA LIAS PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48139,
+        "code": "419",
+        "latitude": 39.642227,
+        "longitude": 20.84858,
+        "description": {
+            "el": "ΚΩΤΣΟΒΟΛΟΣ",
+            "en": "KWTSOBOLOS"
+        },
+        "lineNames": [
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48141,
+        "code": "422",
+        "latitude": 39.6424335,
+        "longitude": 20.8487481,
+        "description": {
+            "el": "ΚΩΤΣΟΒΟΛΟΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "KWTSOBOLOS PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47916,
+        "code": "104",
+        "latitude": 39.6643482,
+        "longitude": 20.8554848,
+        "description": {
+            "el": "ΛΑΙΚΗ ΑΓΟΡΑ",
+            "en": "LAIKH AGORA"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "13",
+            "15",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48016,
+        "code": "223",
+        "latitude": 39.6840194,
+        "longitude": 20.8342062,
+        "description": {
+            "el": "ΛΕΜΟΝΙΑ",
+            "en": "LEMONIA"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "05",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48031,
+        "code": "238",
+        "latitude": 39.6841412,
+        "longitude": 20.8338642,
+        "description": {
+            "el": "ΛΕΜΟΝΙΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "LEMONIA PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47895,
+        "code": "0630",
+        "latitude": 39.6576436,
+        "longitude": 20.9390327,
+        "description": {
+            "el": "ΛΟΓΓΑΔΕΣ",
+            "en": "LOGGADES"
+        },
+        "lineNames": [
+            "01"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48044,
+        "code": "251",
+        "latitude": 39.7012094,
+        "longitude": 20.7881571,
+        "description": {
+            "el": "ΛΥΚΕΙΟ ΕΛΕΟΥΣΑΣ",
+            "en": "LYKEIO ELEOUSAS"
+        },
+        "lineNames": [
+            "02"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47906,
+        "code": "0800",
+        "latitude": 39.6023193,
+        "longitude": 20.9089425,
+        "description": {
+            "el": "ΛΥΚΙΣΚΟΣ",
+            "en": "LYKISKOS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47905,
+        "code": "0790",
+        "latitude": 39.6038922,
+        "longitude": 20.9085528,
+        "description": {
+            "el": "ΛΥΚΙΣΚΟΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "LYKISKOS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48245,
+        "code": "747",
+        "latitude": 39.7454971,
+        "longitude": 20.7822441,
+        "description": {
+            "el": "ΛΥΚΟΣΤΟΜΟ ΚΕΝΤΡΟ",
+            "en": "LYKOSTOMO KENTRO"
+        },
+        "lineNames": [
+            "04"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48089,
+        "code": "314",
+        "latitude": 39.671528,
+        "longitude": 20.840347,
+        "description": {
+            "el": "Μ. ΑΛΕΞΑΝΔΡΟΥ 1 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "M. ALEXANDROU 1 PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48096,
+        "code": "321",
+        "latitude": 39.671786,
+        "longitude": 20.8402759,
+        "description": {
+            "el": "Μ.ΑΛΕΞΑΝΔΡΟΥ 1",
+            "en": "M.ALEXANDROU 1"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47941,
+        "code": "127",
+        "latitude": 39.6328392,
+        "longitude": 20.863615,
+        "description": {
+            "el": "ΜΑΓΚΛΑΡΑ",
+            "en": "MAGKLARA"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47947,
+        "code": "130",
+        "latitude": 39.6332192,
+        "longitude": 20.8637656,
+        "description": {
+            "el": "ΜΑΓΚΛΑΡΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MAGKLARA PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47989,
+        "code": "165",
+        "latitude": 39.6356633,
+        "longitude": 20.8719804,
+        "description": {
+            "el": "ΜΑΚΗ ΚΑΤΣΙΚΑ",
+            "en": "MAKH KATSIKA"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48104,
+        "code": "329",
+        "latitude": 39.679237,
+        "longitude": 20.8324,
+        "description": {
+            "el": "ΜΑΚΡΥΓΙΑΝΝΗ  2",
+            "en": "MAKRYGIANNH  2"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48102,
+        "code": "327",
+        "latitude": 39.677677,
+        "longitude": 20.835184,
+        "description": {
+            "el": "ΜΑΚΡΥΓΙΑΝΝΗ 1",
+            "en": "MAKRYGIANNH 1"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48106,
+        "code": "331",
+        "latitude": 39.6805037,
+        "longitude": 20.8289854,
+        "description": {
+            "el": "ΜΑΚΡΥΓΙΑΝΝΗ 3",
+            "en": "MAKRYGIANNH 3"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48103,
+        "code": "328",
+        "latitude": 39.6803354,
+        "longitude": 20.8293563,
+        "description": {
+            "el": "ΜΑΚΡΥΓΙΑΝΝΗ 3 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MAKRYGIANNH 3 PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47963,
+        "code": "141",
+        "latitude": 39.6288782,
+        "longitude": 20.8802453,
+        "description": {
+            "el": "ΜΑΝΤΖΙΟΣ",
+            "en": "MANTZIOS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47973,
+        "code": "150",
+        "latitude": 39.6289391,
+        "longitude": 20.8803864,
+        "description": {
+            "el": "ΜΑΝΤΖΙΟΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MANTZIOS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "08",
+            "10",
+            "13",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48266,
+        "code": "821",
+        "latitude": 39.6568322,
+        "longitude": 20.7967658,
+        "description": {
+            "el": "ΜΑΡΜΑΡΑ ",
+            "en": "MARMARA "
+        },
+        "lineNames": [
+            "12",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48110,
+        "code": "335",
+        "latitude": 39.6816865,
+        "longitude": 20.8234165,
+        "description": {
+            "el": "ΜΑΣΟΥΤΗΣ",
+            "en": "MASOUTHS"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48171,
+        "code": "459",
+        "latitude": 39.644516,
+        "longitude": 20.843485,
+        "description": {
+            "el": "ΜΑΣΟΥΤΗΣ",
+            "en": "MASOUTHS"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48163,
+        "code": "450",
+        "latitude": 39.6454941,
+        "longitude": 20.8440925,
+        "description": {
+            "el": "ΜΑΣΟΥΤΗΣ (ΠΡΟΣ ΚΕΝΤΡΟ)",
+            "en": "MASOUTHS (PROS KENTRO)"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48107,
+        "code": "332",
+        "latitude": 39.6814297,
+        "longitude": 20.8232453,
+        "description": {
+            "el": "ΜΑΣΟΥΤΗΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MASOUTHS PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48109,
+        "code": "334",
+        "latitude": 39.684296,
+        "longitude": 20.81803,
+        "description": {
+            "el": "ΜΕΛΑΝΔΡΑ  (ΑΦΕΤΗΡΙΑ)",
+            "en": "MELANDRA  (AFETHRIA)"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48162,
+        "code": "449",
+        "latitude": 39.619472,
+        "longitude": 20.8435831,
+        "description": {
+            "el": "ΜΕΤΑΒΑΤΙΚΟ",
+            "en": "METABATIKO"
+        },
+        "lineNames": [
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48157,
+        "code": "444",
+        "latitude": 39.6194599,
+        "longitude": 20.8434482,
+        "description": {
+            "el": "ΜΕΤΑΒΑΤΙΚΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "METABATIKO PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48129,
+        "code": "409",
+        "latitude": 39.6510894,
+        "longitude": 20.8461685,
+        "description": {
+            "el": "ΜΗΤΡΟΚΩΣΤΑ",
+            "en": "MHTROKWSTA"
+        },
+        "lineNames": [
+            "09",
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48146,
+        "code": "429",
+        "latitude": 39.6509846,
+        "longitude": 20.846674,
+        "description": {
+            "el": "ΜΗΤΡΟΚΩΣΤΑ  ΠΡΟΣ ΟΑΕΔ-ΤΕΙ",
+            "en": "MHTROKWSTA  PROS OAED-TEI"
+        },
+        "lineNames": [
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48134,
+        "code": "414",
+        "latitude": 39.650353,
+        "longitude": 20.8470961,
+        "description": {
+            "el": "ΜΗΤΡΟΚΩΣΤΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MHTROKWSTA PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "09",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48280,
+        "code": "937",
+        "latitude": 39.6686179,
+        "longitude": 20.8564935,
+        "description": {
+            "el": "ΜΗΤΡΟΠΟΛΗ",
+            "en": "MHTROPOLH"
+        },
+        "lineNames": [
+            "06",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47961,
+        "code": "1390",
+        "latitude": 39.577252,
+        "longitude": 20.9486198,
+        "description": {
+            "el": "ΜΟΥΖΑΚΑΙΟΙ ",
+            "en": "MOUZAKAIOI "
+        },
+        "lineNames": [
+            "01",
+            "03"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48212,
+        "code": "610",
+        "latitude": 39.5995351,
+        "longitude": 20.87694,
+        "description": {
+            "el": "ΜΠΑΦΡΑ  ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MPAFRA  PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48209,
+        "code": "607",
+        "latitude": 39.6024259,
+        "longitude": 20.8711819,
+        "description": {
+            "el": "ΜΠΑΦΡΑ 1",
+            "en": "MPAFRA 1"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48208,
+        "code": "606",
+        "latitude": 39.6025008,
+        "longitude": 20.8714233,
+        "description": {
+            "el": "ΜΠΑΦΡΑ 1 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MPAFRA 1 PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48211,
+        "code": "609",
+        "latitude": 39.6012541,
+        "longitude": 20.877752,
+        "description": {
+            "el": "ΜΠΑΦΡΑ 2",
+            "en": "MPAFRA 2"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48210,
+        "code": "608",
+        "latitude": 39.6012092,
+        "longitude": 20.8778176,
+        "description": {
+            "el": "ΜΠΑΦΡΑ 2 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MPAFRA 2 PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48215,
+        "code": "613",
+        "latitude": 39.5981593,
+        "longitude": 20.8765305,
+        "description": {
+            "el": "ΜΠΑΦΡΑ 3",
+            "en": "MPAFRA 3"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48214,
+        "code": "612",
+        "latitude": 39.5983591,
+        "longitude": 20.876673,
+        "description": {
+            "el": "ΜΠΑΦΡΑ 3  ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MPAFRA 3  PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48217,
+        "code": "615",
+        "latitude": 39.5964367,
+        "longitude": 20.8761192,
+        "description": {
+            "el": "ΜΠΑΦΡΑ 4",
+            "en": "MPAFRA 4"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48216,
+        "code": "614",
+        "latitude": 39.5960315,
+        "longitude": 20.8761882,
+        "description": {
+            "el": "ΜΠΑΦΡΑ 4 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MPAFRA 4 PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48213,
+        "code": "611",
+        "latitude": 39.5994571,
+        "longitude": 20.876805,
+        "description": {
+            "el": "ΜΠΑΦΡΑ ΚΕΝΤΡΙΚΗ",
+            "en": "MPAFRA KENTRIKH"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48233,
+        "code": "633",
+        "latitude": 39.5651696,
+        "longitude": 20.8658747,
+        "description": {
+            "el": "ΜΠΙΖΑΝΙ",
+            "en": "MPIZANI"
+        },
+        "lineNames": [
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48232,
+        "code": "630",
+        "latitude": 39.5651503,
+        "longitude": 20.8660044,
+        "description": {
+            "el": "ΜΠΙΖΑΝΙ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "MPIZANI PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47955,
+        "code": "134",
+        "latitude": 39.6268359,
+        "longitude": 20.8631222,
+        "description": {
+            "el": "ΜΥΡΤΙΑΣ",
+            "en": "MYRTIAS"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48050,
+        "code": "257",
+        "latitude": 39.6870648,
+        "longitude": 20.8281311,
+        "description": {
+            "el": "ΝΕΑ ΖΩΗ 1",
+            "en": "NEA ZWH 1"
+        },
+        "lineNames": [
+            "05",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48065,
+        "code": "272",
+        "latitude": 39.6868801,
+        "longitude": 20.8280061,
+        "description": {
+            "el": "ΝΕΑ ΖΩΗ 1 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "NEA ZWH 1 PROS KENTRO"
+        },
+        "lineNames": [
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48052,
+        "code": "259",
+        "latitude": 39.6853717,
+        "longitude": 20.8247354,
+        "description": {
+            "el": "ΝΕΑ ΖΩΗ 2",
+            "en": "NEA ZWH 2"
+        },
+        "lineNames": [
+            "05",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48063,
+        "code": "270",
+        "latitude": 39.6853148,
+        "longitude": 20.8246151,
+        "description": {
+            "el": "ΝΕΑ ΖΩΗ 2 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "NEA ZWH 2 PROS KENTRO"
+        },
+        "lineNames": [
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48056,
+        "code": "263",
+        "latitude": 39.6883694,
+        "longitude": 20.8225407,
+        "description": {
+            "el": "ΝΕΑ ΖΩΗ 4",
+            "en": "NEA ZWH 4"
+        },
+        "lineNames": [
+            "05",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48059,
+        "code": "266",
+        "latitude": 39.6884256,
+        "longitude": 20.8223883,
+        "description": {
+            "el": "ΝΕΑ ΖΩΗ 4 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "NEA ZWH 4 PROS KENTRO"
+        },
+        "lineNames": [
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48054,
+        "code": "261",
+        "latitude": 39.6866765,
+        "longitude": 20.8234616,
+        "description": {
+            "el": "ΝΕΑ ΖΩΗ ΚΕΝΤΡΙΚΗ",
+            "en": "NEA ZWH KENTRIKH"
+        },
+        "lineNames": [
+            "05",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48061,
+        "code": "268",
+        "latitude": 39.6866796,
+        "longitude": 20.823271,
+        "description": {
+            "el": "ΝΕΑ ΖΩΗ ΚΕΝΤΡΙΚΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "NEA ZWH KENTRIKH PROS KENTRO"
+        },
+        "lineNames": [
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48058,
+        "code": "265",
+        "latitude": 39.6897825,
+        "longitude": 20.8220028,
+        "description": {
+            "el": "ΝΕΑ ΖΩΗ ΤΕΛΙΚΗ",
+            "en": "NEA ZWH TELIKH"
+        },
+        "lineNames": [
+            "05",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48174,
+        "code": "462",
+        "latitude": 39.6244419,
+        "longitude": 20.8335855,
+        "description": {
+            "el": "ΝΕΩΧΟΡΟΠΟΥΛΟ 2",
+            "en": "NEWXOROPOULO 2"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48172,
+        "code": "460",
+        "latitude": 39.6243066,
+        "longitude": 20.8379113,
+        "description": {
+            "el": "ΝΕΩΧΟΡΟΠΟΥΛΟ 3",
+            "en": "NEWXOROPOULO 3"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48176,
+        "code": "464",
+        "latitude": 39.6265398,
+        "longitude": 20.8342141,
+        "description": {
+            "el": "ΝΕΩΧΟΡΟΠΟΥΛΟ ΚΕΝΤΡΙΚΗ",
+            "en": "NEWXOROPOULO KENTRIKH"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48190,
+        "code": "495",
+        "latitude": 39.6324492,
+        "longitude": 20.8369153,
+        "description": {
+            "el": "ΝΕΩΧΟΡΟΠΟΥΛΟ ΤΕΛΙΚΗ",
+            "en": "NEWXOROPOULO TELIKH"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48143,
+        "code": "425",
+        "latitude": 39.632023,
+        "longitude": 20.84841,
+        "description": {
+            "el": "ΝΙΑΡΧΟΥ  2",
+            "en": "NIARXOU  2"
+        },
+        "lineNames": [
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48140,
+        "code": "421",
+        "latitude": 39.639782,
+        "longitude": 20.848526,
+        "description": {
+            "el": "ΝΙΑΡΧΟΥ 1",
+            "en": "NIARXOU 1"
+        },
+        "lineNames": [
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48144,
+        "code": "426",
+        "latitude": 39.637816,
+        "longitude": 20.8486616,
+        "description": {
+            "el": "ΝΙΑΡΧΟΥ 1 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "NIARXOU 1 PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48150,
+        "code": "434",
+        "latitude": 39.6320927,
+        "longitude": 20.8485823,
+        "description": {
+            "el": "ΝΙΑΡΧΟΥ 2 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "NIARXOU 2 PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48105,
+        "code": "330",
+        "latitude": 39.6807885,
+        "longitude": 20.826101,
+        "description": {
+            "el": "ΝΟΣ. ΧΑΤΖΗΚΩΣΤΑ  ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "NOS. XATZHKWSTA  PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48108,
+        "code": "333",
+        "latitude": 39.6811118,
+        "longitude": 20.8251326,
+        "description": {
+            "el": "ΝΟΣΟΚΟΜΕΙΟ ΧΑΤΖΗΚΩΣΤΑ",
+            "en": "NOSOKOMEIO XATZHKWSTA"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48019,
+        "code": "226",
+        "latitude": 39.677505,
+        "longitude": 20.8406216,
+        "description": {
+            "el": "ΟΜΙΛΟΣ",
+            "en": "OMILOS"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47909,
+        "code": "0830",
+        "latitude": 39.5912471,
+        "longitude": 20.9080553,
+        "description": {
+            "el": "ΠΑΙΔΙΚΗ ΧΑΡΑ ΑΝΩ ΚΟΥΤΣΕΛΙΟ",
+            "en": "PAIDIKH XARA ANO KOUTSELIO"
+        },
+        "lineNames": [
+            "02",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47910,
+        "code": "0840",
+        "latitude": 39.5916162,
+        "longitude": 20.9085379,
+        "description": {
+            "el": "ΠΑΙΔΙΚΗ ΧΑΡΑ ΑΝΩ ΚΟΥΤΣΕΛΙΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "PAIDIKH XARA ANO KOUTSELIO PROS KENTRO"
+        },
+        "lineNames": [
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47899,
+        "code": "0730",
+        "latitude": 39.6128768,
+        "longitude": 20.9016628,
+        "description": {
+            "el": "ΠΑΛΙΟ ΑΕΡΟΔΡΟΜΙΟ ΚΑΤΣΙΚΑΣ",
+            "en": "PALIO AERODROMIO KATSIKAS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47900,
+        "code": "0740",
+        "latitude": 39.6126969,
+        "longitude": 20.9019588,
+        "description": {
+            "el": "ΠΑΛΙΟ ΑΕΡΟΔΡΟΜΙΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "PALIO AERODROMIO PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47997,
+        "code": "203",
+        "latitude": 39.6688969,
+        "longitude": 20.8522233,
+        "description": {
+            "el": "ΠΑΛΙΟ ΠΡΑΚΤΟΡΕΙΟ ΑΘΗΝΩΝ",
+            "en": "PALIO PRAKTOREIO ATHHNWN"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "05",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48076,
+        "code": "301",
+        "latitude": 39.6632662,
+        "longitude": 20.8514213,
+        "description": {
+            "el": "ΠΑΛΙΟ ΤΑΧΥΔΡΟΜΕΙΟ",
+            "en": "PALIO TAXYDROMEIO"
+        },
+        "lineNames": [
+            "10",
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47998,
+        "code": "204",
+        "latitude": 39.6680963,
+        "longitude": 20.8508696,
+        "description": {
+            "el": "ΠΑΛΛΑΔΙΟ",
+            "en": "PALLADIO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "07",
+            "08",
+            "13",
+            "16",
+            "17",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47903,
+        "code": "0770",
+        "latitude": 39.6061382,
+        "longitude": 20.906573,
+        "description": {
+            "el": "ΠΑΜΒΩΤΗΣ",
+            "en": "PAMBWTHS"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47904,
+        "code": "0780",
+        "latitude": 39.6060993,
+        "longitude": 20.9067969,
+        "description": {
+            "el": "ΠΑΜΒΩΤΗΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "PAMBWTHS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48164,
+        "code": "451",
+        "latitude": 39.6201749,
+        "longitude": 20.8413859,
+        "description": {
+            "el": "ΠΑΝΕΠΙΣΤΗΜΙΑΚΟ ΝΟΣΟΚΟΜΕΙΟ ΔΟΥΡΟΥΤΗΣ",
+            "en": "PANEPISTHMIAKO NOSOKOMEIO DOUROUTHS"
+        },
+        "lineNames": [
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48159,
+        "code": "446",
+        "latitude": 39.620083,
+        "longitude": 20.841473,
+        "description": {
+            "el": "ΠΑΝΕΠΙΣΤΗΜΙΑΚΟ ΝΟΣΟΚΟΜΕΙΟ ΔΟΥΡΟΥΤΗΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "PANEPISTHMIAKO NOSOKOMEIO DOUROUTHS PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47949,
+        "code": "131",
+        "latitude": 39.6247448,
+        "longitude": 20.8628965,
+        "description": {
+            "el": "ΠΑΝΗΠΕΙΡΩΤΙΚΟ",
+            "en": "PANHPEIRWTIKO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "06",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47957,
+        "code": "136",
+        "latitude": 39.6247556,
+        "longitude": 20.8631829,
+        "description": {
+            "el": "ΠΑΝΗΠΕΙΡΩΤΙΚΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "PANHPEIRWTIKO PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47987,
+        "code": "163",
+        "latitude": 39.6370028,
+        "longitude": 20.8706528,
+        "description": {
+            "el": "ΠΑΠΑΓΕΩΡΓΙΟΥ ΑΝΑΤΟΛΗ",
+            "en": "PAPAGEWRGIOU ANATOLH"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47986,
+        "code": "162",
+        "latitude": 39.6371161,
+        "longitude": 20.8707198,
+        "description": {
+            "el": "ΠΑΠΑΓΕΩΡΓΙΟΥ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "PAPAGEWRGIOU PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47974,
+        "code": "151",
+        "latitude": 39.632577,
+        "longitude": 20.8683776,
+        "description": {
+            "el": "ΠΑΠΑΝΔΡΕΟΥ Α.",
+            "en": "PAPANDREOU A."
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "08",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48101,
+        "code": "326",
+        "latitude": 39.68076,
+        "longitude": 20.832895,
+        "description": {
+            "el": "ΠΑΣΧΙΔΗ 1",
+            "en": "PASXIDH 1"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48099,
+        "code": "324",
+        "latitude": 39.6794614,
+        "longitude": 20.8341083,
+        "description": {
+            "el": "ΠΑΣΧΙΔΗ 2",
+            "en": "PASXIDH 2"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48097,
+        "code": "322",
+        "latitude": 39.6781381,
+        "longitude": 20.8354205,
+        "description": {
+            "el": "ΠΑΣΧΙΔΗ 3",
+            "en": "PASXIDH 3"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48095,
+        "code": "320",
+        "latitude": 39.6772838,
+        "longitude": 20.8365855,
+        "description": {
+            "el": "ΠΑΣΧΙΔΗ 4",
+            "en": "PASXIDH 4"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48268,
+        "code": "827",
+        "latitude": 39.6021408,
+        "longitude": 20.8407303,
+        "description": {
+            "el": "ΠΕΔΙΝΗ 1",
+            "en": "PEDINH 1"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48270,
+        "code": "829",
+        "latitude": 39.6023983,
+        "longitude": 20.8435346,
+        "description": {
+            "el": "ΠΕΔΙΝΗ 2",
+            "en": "PEDINH 2"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48269,
+        "code": "828",
+        "latitude": 39.6024828,
+        "longitude": 20.8437107,
+        "description": {
+            "el": "ΠΕΔΙΝΗ 2 (ΠΡΟΣ ΠΛΑΤΕΙΑ)",
+            "en": "PEDINH 2 (PROS PLATEIA)"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48272,
+        "code": "831",
+        "latitude": 39.6010453,
+        "longitude": 20.845957,
+        "description": {
+            "el": "ΠΕΔΙΝΗ 3",
+            "en": "PEDINH 3"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48271,
+        "code": "830",
+        "latitude": 39.6011889,
+        "longitude": 20.8460381,
+        "description": {
+            "el": "ΠΕΔΙΝΗ 3 (ΠΡΟΣ ΠΛΑΤΕΙΑ)",
+            "en": "PEDINH 3 (PROS PLATEIA)"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48274,
+        "code": "833",
+        "latitude": 39.5987815,
+        "longitude": 20.8458791,
+        "description": {
+            "el": "ΠΕΔΙΝΗ 4",
+            "en": "PEDINH 4"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48273,
+        "code": "832",
+        "latitude": 39.5988695,
+        "longitude": 20.8461136,
+        "description": {
+            "el": "ΠΕΔΙΝΗ 4 (ΠΡΟΣ ΠΛΑΤΕΙΑ)",
+            "en": "PEDINH 4 (PROS PLATEIA)"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48275,
+        "code": "835",
+        "latitude": 39.597626,
+        "longitude": 20.845198,
+        "description": {
+            "el": "ΠΕΔΙΝΗ ΚΕΝΤΡΙΚΗ",
+            "en": "PEDINH KENTRIKH"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48204,
+        "code": "5810",
+        "latitude": 39.6648254,
+        "longitude": 20.8339031,
+        "description": {
+            "el": "ΠΕΝΤΕΛΗ 1",
+            "en": "PENTELH 1"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48062,
+        "code": "269",
+        "latitude": 39.6906963,
+        "longitude": 20.8463446,
+        "description": {
+            "el": "ΠΕΡΑΜΑ ",
+            "en": "PERAMA "
+        },
+        "lineNames": [
+            "04",
+            "08",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48073,
+        "code": "282",
+        "latitude": 39.6908945,
+        "longitude": 20.8467001,
+        "description": {
+            "el": "ΠΕΡΑΜΑ  ΑΦΕΤΗΡΙΑ",
+            "en": "PERAMA  AFETHRIA"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "07",
+            "08",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48277,
+        "code": "923",
+        "latitude": 39.7636985,
+        "longitude": 20.7781698,
+        "description": {
+            "el": "ΠΕΡΙΒΛΕΠΤΟΣ",
+            "en": "PERIBLEPTOS"
+        },
+        "lineNames": [
+            "04"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48135,
+        "code": "415",
+        "latitude": 39.6451071,
+        "longitude": 20.8474724,
+        "description": {
+            "el": "ΠΕΡΙΔΗ",
+            "en": "PERIDH"
+        },
+        "lineNames": [
+            "09",
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48038,
+        "code": "245",
+        "latitude": 39.707325,
+        "longitude": 20.795835,
+        "description": {
+            "el": "ΠΛΑΣΤΙΓΚΑ",
+            "en": "PLASTIGKA"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "08",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48053,
+        "code": "260",
+        "latitude": 39.7072087,
+        "longitude": 20.7958289,
+        "description": {
+            "el": "ΠΛΑΣΤΙΓΚΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "PLASTIGKA PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47920,
+        "code": "107",
+        "latitude": 39.6570751,
+        "longitude": 20.8565623,
+        "description": {
+            "el": "ΠΛΑΤΑΝΑΚΙΑ",
+            "en": "PLATANAKIA"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48279,
+        "code": "1571",
+        "latitude": 39.6144505,
+        "longitude": 20.9526929,
+        "description": {
+            "el": "ΠΛΑΤΑΝΙΑ ",
+            "en": "PLATANIA "
+        },
+        "lineNames": [
+            "03"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47981,
+        "code": "1570",
+        "latitude": 39.6145373,
+        "longitude": 20.952709,
+        "description": {
+            "el": "ΠΛΑΤΑΝΙΑ ΚΕΝΤΡΟ",
+            "en": "PLATANIA KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "03"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47913,
+        "code": "100",
+        "latitude": 39.6646783,
+        "longitude": 20.8535343,
+        "description": {
+            "el": "ΠΛΑΤΕΙΑ (ΠΡΟΣ ΑΝΑΤΟΛΗ)",
+            "en": "PLATEIA (PROS ANATOLH)"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48079,
+        "code": "304",
+        "latitude": 39.6637176,
+        "longitude": 20.8480948,
+        "description": {
+            "el": "ΠΛΑΤΕΙΑ ΠΑΡΓΗΣ",
+            "en": "PLATEIA PARGHS"
+        },
+        "lineNames": [
+            "10",
+            "12",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48197,
+        "code": "5730",
+        "latitude": 39.6640818,
+        "longitude": 20.8487889,
+        "description": {
+            "el": "ΠΛΑΤΕΙΑ ΠΑΡΓΗΣ (ΖΕΥΓΑΡΙΑ)",
+            "en": "PLATEIA PARGHS (ZEUGARIA)"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48122,
+        "code": "402",
+        "latitude": 39.6643459,
+        "longitude": 20.8527557,
+        "description": {
+            "el": "ΠΛΑΤΕΙΑ ΠΥΡΡΟΥ",
+            "en": "PLATEIA PYRROU"
+        },
+        "lineNames": [
+            "02",
+            "09",
+            "10",
+            "12",
+            "16",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48169,
+        "code": "457",
+        "latitude": 39.6465952,
+        "longitude": 20.8443378,
+        "description": {
+            "el": "ΠΛΑΤΕΙΑ ΣΕΙΣΜΟΠΛΗΚΤΩΝ ",
+            "en": "PLATEIA SEISMOPLHKTWN "
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48148,
+        "code": "431",
+        "latitude": 39.6474939,
+        "longitude": 20.8485472,
+        "description": {
+            "el": "ΠΟΛΥΚΛΑΔΙΚΟ",
+            "en": "POLYKLADIKO"
+        },
+        "lineNames": [
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48136,
+        "code": "416",
+        "latitude": 39.6477853,
+        "longitude": 20.8486632,
+        "description": {
+            "el": "ΠΟΛΥΚΛΑΔΙΚΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "POLYKLADIKO PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "09",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48160,
+        "code": "447",
+        "latitude": 39.6154571,
+        "longitude": 20.8463545,
+        "description": {
+            "el": "ΠΥΛΗ ΠΑΝΕΠΙΣΤΗΜΙΟΥ",
+            "en": "PYLH PANEPISTHMIOU"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48077,
+        "code": "302",
+        "latitude": 39.6637684,
+        "longitude": 20.85112,
+        "description": {
+            "el": "ΠΥΡΣΙΝΕΛΛΑ",
+            "en": "PYRSINELLA"
+        },
+        "lineNames": [
+            "10",
+            "12",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48239,
+        "code": "715",
+        "latitude": 39.7064793,
+        "longitude": 20.7245074,
+        "description": {
+            "el": "ΡΟΔΟΤΟΠΙ ΚΕΝΤΡΙΚΗ",
+            "en": "RODOTOPI KENTRIKH"
+        },
+        "lineNames": [
+            "02",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48075,
+        "code": "300",
+        "latitude": 39.66594,
+        "longitude": 20.854113,
+        "description": {
+            "el": "ΡΟΛΟΙ",
+            "en": "ROLOI"
+        },
+        "lineNames": [
+            "06",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48133,
+        "code": "413",
+        "latitude": 39.646416,
+        "longitude": 20.845228,
+        "description": {
+            "el": "ΣΕΙΣΜΟΠΛΗΚΤΑ",
+            "en": "SEISMOPLHKTA"
+        },
+        "lineNames": [
+            "09",
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47912,
+        "code": "0900",
+        "latitude": 39.5599302,
+        "longitude": 20.9011312,
+        "description": {
+            "el": "ΣΕΡΒΙΑΝΑ ΚΕΝΤΡΙΚΗ",
+            "en": "SERBIANA KENTRIKH"
+        },
+        "lineNames": [
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48142,
+        "code": "423",
+        "latitude": 39.6348014,
+        "longitude": 20.8484991,
+        "description": {
+            "el": "ΣΚΛΑΒΕΝΙΤΗ ",
+            "en": "SKLABENITH "
+        },
+        "lineNames": [
+            "10",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48147,
+        "code": "430",
+        "latitude": 39.6348626,
+        "longitude": 20.8486453,
+        "description": {
+            "el": "ΣΚΛΑΒΕΝΙΤΗΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "SKLABENITHS PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48098,
+        "code": "323",
+        "latitude": 39.6736684,
+        "longitude": 20.8390491,
+        "description": {
+            "el": "ΣΚΟΡΠΙΟΣ",
+            "en": "SKORPIOS"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48091,
+        "code": "316",
+        "latitude": 39.67412,
+        "longitude": 20.838612,
+        "description": {
+            "el": "ΣΚΟΡΠΙΟΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "SKORPIOS PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48082,
+        "code": "307",
+        "latitude": 39.6602084,
+        "longitude": 20.845734,
+        "description": {
+            "el": "ΣΟΥΛΙΟΥ",
+            "en": "SOULIOU"
+        },
+        "lineNames": [
+            "10",
+            "12",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48116,
+        "code": "351",
+        "latitude": 39.662019,
+        "longitude": 20.8464261,
+        "description": {
+            "el": "ΣΟΥΛΙΟΥ ΚΑΡΑΟΛΗ ΚΑΙ ΔΗΜΗΤΡΙΟΥ (ΠΡΟΣ ΠΛΑΤΕΙΑ)",
+            "en": "SOULIOU KARAOLH KAI DHMHTRIOU (PROS PLATEIA)"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48084,
+        "code": "309",
+        "latitude": 39.661926,
+        "longitude": 20.846535,
+        "description": {
+            "el": "ΣΟΥΛΙΟΥ-ΚΑΡΑΟΛΗ ΚΑΙ ΔΗΜΗΤΡΙΟΥ",
+            "en": "SOULIOU-KARAOLH KAI DHMHTRIOU"
+        },
+        "lineNames": [
+            "10",
+            "12",
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48086,
+        "code": "311",
+        "latitude": 39.6643764,
+        "longitude": 20.8469672,
+        "description": {
+            "el": "ΣΠΥΡΟΥ ΛΑΜΠΡΟΥ",
+            "en": "SPYROU LAMPROU"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48083,
+        "code": "308",
+        "latitude": 39.6669132,
+        "longitude": 20.8443801,
+        "description": {
+            "el": "ΣΠΥΡΟΥ ΛΑΜΠΡΟΥ 3 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "SPYROU LAMPROU 3 PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48081,
+        "code": "306",
+        "latitude": 39.6653433,
+        "longitude": 20.8459926,
+        "description": {
+            "el": "ΣΠΥΡΟΥ ΛΑΜΠΡΟΥ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "SPYROU LAMPROU PROS KENTRO"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48119,
+        "code": "397",
+        "latitude": 39.6647205,
+        "longitude": 20.85405,
+        "description": {
+            "el": "ΣΤΑΘΜΑΡΧΕΙΟ",
+            "en": "STATHMARXEIO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "12",
+            "13",
+            "15",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47924,
+        "code": "111",
+        "latitude": 39.6530559,
+        "longitude": 20.8584908,
+        "description": {
+            "el": "ΣΤΑΜΑΤΑΚΙ",
+            "en": "STAMATAKI"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47927,
+        "code": "114",
+        "latitude": 39.6533863,
+        "longitude": 20.858972,
+        "description": {
+            "el": "ΣΤΑΜΑΤΑΚΙ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "STAMATAKI PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "15",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47942,
+        "code": "1270",
+        "latitude": 39.5978343,
+        "longitude": 20.9127875,
+        "description": {
+            "el": "ΣΤΑΣΗ ΚΟΥΤΣΕΛΙΟΥ 1",
+            "en": "STASH KOUTSELIOU 1"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48258,
+        "code": "813",
+        "latitude": 39.6568374,
+        "longitude": 20.8199874,
+        "description": {
+            "el": "ΣΤΑΥΡΑΚΙ 1",
+            "en": "STAURAKI 1"
+        },
+        "lineNames": [
+            "12",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48259,
+        "code": "814",
+        "latitude": 39.6564279,
+        "longitude": 20.8198943,
+        "description": {
+            "el": "ΣΤΑΥΡΑΚΙ 1 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "STAURAKI 1 PROS KENTRO"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48260,
+        "code": "815",
+        "latitude": 39.6552255,
+        "longitude": 20.8186003,
+        "description": {
+            "el": "ΣΤΑΥΡΑΚΙ 2",
+            "en": "STAURAKI 2"
+        },
+        "lineNames": [
+            "12",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48261,
+        "code": "816",
+        "latitude": 39.655167,
+        "longitude": 20.8184946,
+        "description": {
+            "el": "ΣΤΑΥΡΑΚΙ 2 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "STAURAKI 2 PROS KENTRO"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48262,
+        "code": "817",
+        "latitude": 39.6564929,
+        "longitude": 20.8162141,
+        "description": {
+            "el": "ΣΤΑΥΡΑΚΙ 3",
+            "en": "STAURAKI 3"
+        },
+        "lineNames": [
+            "12",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48263,
+        "code": "818",
+        "latitude": 39.6564267,
+        "longitude": 20.8161172,
+        "description": {
+            "el": "ΣΤΑΥΡΑΚΙ 3 ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "STAURAKI 3 PROS KENTRO"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47995,
+        "code": "201",
+        "latitude": 39.6666034,
+        "longitude": 20.8535384,
+        "description": {
+            "el": "ΣΤΡΑΤΟΔΙΚΕΙΟ",
+            "en": "STRATODIKEIO"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "05",
+            "08",
+            "13",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48123,
+        "code": "403",
+        "latitude": 39.6584599,
+        "longitude": 20.8507265,
+        "description": {
+            "el": "ΣΤΡΑΤΟΛΟΓΙΑ",
+            "en": "STRATOLOGIA"
+        },
+        "lineNames": [
+            "09",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48126,
+        "code": "406",
+        "latitude": 39.6592621,
+        "longitude": 20.8510918,
+        "description": {
+            "el": "ΣΤΡΑΤΟΛΟΓΙΑ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "STRATOLOGIA PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "09",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47980,
+        "code": "157",
+        "latitude": 39.6435215,
+        "longitude": 20.8648152,
+        "description": {
+            "el": "ΣΩΛΗΝΕΣ",
+            "en": "SWLHNES"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47992,
+        "code": "168",
+        "latitude": 39.6438732,
+        "longitude": 20.8647248,
+        "description": {
+            "el": "ΣΩΛΗΝΕΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "SWLHNES PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48154,
+        "code": "441",
+        "latitude": 39.6223632,
+        "longitude": 20.8600028,
+        "description": {
+            "el": "Τ.Ε.Ι",
+            "en": "T.E.I"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48149,
+        "code": "432",
+        "latitude": 39.6220161,
+        "longitude": 20.8591411,
+        "description": {
+            "el": "Τ.Ε.Ι. ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "T.E.I. PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48032,
+        "code": "239",
+        "latitude": 39.703503,
+        "longitude": 20.809063,
+        "description": {
+            "el": "ΤΑΤΣΗΡΑΜΟΣ",
+            "en": "TATSHRAMOS"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "08",
+            "13"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48047,
+        "code": "254",
+        "latitude": 39.7033441,
+        "longitude": 20.8090552,
+        "description": {
+            "el": "ΤΑΤΣΗΡΑΜΟΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "TATSHRAMOS PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48235,
+        "code": "650",
+        "latitude": 39.6049917,
+        "longitude": 20.8615417,
+        "description": {
+            "el": "ΤΕΛΩΝΕΙΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "TELWNEIO PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48090,
+        "code": "315",
+        "latitude": 39.6671283,
+        "longitude": 20.8442961,
+        "description": {
+            "el": "ΤΕΠΕΛΕΝΙΟΥ",
+            "en": "TEPELENIOU"
+        },
+        "lineNames": [
+            "10"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48202,
+        "code": "5790",
+        "latitude": 39.6691726,
+        "longitude": 20.8360179,
+        "description": {
+            "el": "ΤΕΡΜΑ ΜΠΑΣKΕΤ ΔΡΟΣΙΑ ΤΕΡΜΑ",
+            "en": "TERMA MPASKET DROSIA TERMA"
+        },
+        "lineNames": [
+            "21"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47915,
+        "code": "103",
+        "latitude": 39.6609039,
+        "longitude": 20.8546181,
+        "description": {
+            "el": "ΤΖΑΜΙ",
+            "en": "TZAMI"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47921,
+        "code": "108",
+        "latitude": 39.6609229,
+        "longitude": 20.8565142,
+        "description": {
+            "el": "ΤΖΑΜΙ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "TZAMI PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "15",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48078,
+        "code": "303",
+        "latitude": 39.662124,
+        "longitude": 20.8487271,
+        "description": {
+            "el": "ΤΟΥΡΚΙΚΟΙ ΚΑΦΕΝΕΔΕΣ",
+            "en": "TOURKIKOI KAFENEDES"
+        },
+        "lineNames": [
+            "10",
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47922,
+        "code": "109",
+        "latitude": 39.6554576,
+        "longitude": 20.8571809,
+        "description": {
+            "el": "ΤΡΙΑΝΑ",
+            "en": "TRIANA"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "15",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48074,
+        "code": "284",
+        "latitude": 39.6857794,
+        "longitude": 20.8361137,
+        "description": {
+            "el": "ΤΡΙΩΝ ΕΚΤΕΛΕΣΘΕΝΤΩΝ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "3h EKTELESTHENTWN PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "07",
+            "08",
+            "16"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48254,
+        "code": "809",
+        "latitude": 39.6551596,
+        "longitude": 20.8334434,
+        "description": {
+            "el": "ΤΣΙΦΛΙΚΟΠΟΥΛΟΥ",
+            "en": "TSIFLIKOPOULOU"
+        },
+        "lineNames": [
+            "12",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48255,
+        "code": "810",
+        "latitude": 39.6551244,
+        "longitude": 20.8332353,
+        "description": {
+            "el": "ΤΣΙΦΛΙΚΟΠΟΥΛΟΥ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "TSIFLIKOPOULOU PROS KENTRO"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47983,
+        "code": "159",
+        "latitude": 39.6409746,
+        "longitude": 20.8669108,
+        "description": {
+            "el": "ΥΔΑΤΟΠΥΡΓΟΣ",
+            "en": "YDATOPYRGOS"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47990,
+        "code": "166",
+        "latitude": 39.640907,
+        "longitude": 20.867224,
+        "description": {
+            "el": "ΥΔΑΤΟΠΥΡΓΟΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "YDATOPYRGOS PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "03",
+            "15"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48018,
+        "code": "225",
+        "latitude": 39.6864511,
+        "longitude": 20.8314235,
+        "description": {
+            "el": "ΦΙΛΟΘΕΗ",
+            "en": "FILOTHEH"
+        },
+        "lineNames": [
+            "02",
+            "03",
+            "04",
+            "05",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48033,
+        "code": "240",
+        "latitude": 39.686527,
+        "longitude": 20.831057,
+        "description": {
+            "el": "ΦΙΛΟΘΕΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "FILOTHEH PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "04",
+            "06",
+            "08",
+            "13",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48168,
+        "code": "455",
+        "latitude": 39.6148225,
+        "longitude": 20.8391971,
+        "description": {
+            "el": "ΦΙΛΟΣΟΦΙΚΗ",
+            "en": "FILOSOFIKH"
+        },
+        "lineNames": [
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47890,
+        "code": "930",
+        "latitude": 39.6146406,
+        "longitude": 20.8392239,
+        "description": {
+            "el": "ΦΙΛΟΣΟΦΙΚΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "FILOSOFIKH PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48165,
+        "code": "452",
+        "latitude": 39.6433138,
+        "longitude": 20.8429569,
+        "description": {
+            "el": "ΦΟΥΡΝΟΣ (ΠΡΟΣ ΚΕΝΤΡΟ)",
+            "en": "FOURNOS (PROS KENTRO)"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48173,
+        "code": "461",
+        "latitude": 39.6432292,
+        "longitude": 20.8428103,
+        "description": {
+            "el": "ΦΟΥΡΝΟΣ ΣΕΙΣΜΟΠΛΗΚΤΑ",
+            "en": "FOURNOS SEISMOPLIKTA"
+        },
+        "lineNames": [
+            "09"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48252,
+        "code": "807",
+        "latitude": 39.6544818,
+        "longitude": 20.8353755,
+        "description": {
+            "el": "ΦΥΛΑΚΕΣ",
+            "en": "FYLAKES"
+        },
+        "lineNames": [
+            "12",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48253,
+        "code": "808",
+        "latitude": 39.6542662,
+        "longitude": 20.8358457,
+        "description": {
+            "el": "ΦΥΛΑΚΕΣ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "FYLAKES PROS KENTRO"
+        },
+        "lineNames": [
+            "12"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47954,
+        "code": "1330",
+        "latitude": 39.589237,
+        "longitude": 20.91653,
+        "description": {
+            "el": "ΧΑΝΙ ΚΟΥΤΣΕΛΙΟΥ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "XANI KOUTSELIOU PROS KENTRO"
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "08",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48166,
+        "code": "453",
+        "latitude": 39.6190576,
+        "longitude": 20.8379419,
+        "description": {
+            "el": "ΧΗΜΙΚΟ",
+            "en": "XHMIKO"
+        },
+        "lineNames": [
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48161,
+        "code": "448",
+        "latitude": 39.6190105,
+        "longitude": 20.8381187,
+        "description": {
+            "el": "ΧΗΜΙΚΟ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "XHMIKO PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47945,
+        "code": "129",
+        "latitude": 39.630047,
+        "longitude": 20.863708,
+        "description": {
+            "el": "ΧΛΟΗ",
+            "en": "XLOH"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "06",
+            "10",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47951,
+        "code": "132",
+        "latitude": 39.6299396,
+        "longitude": 20.8638275,
+        "description": {
+            "el": "ΧΛΟΗ ΠΡΟΣ ΚΕΝΤΡΟ",
+            "en": "XLOH PROS KENTRO"
+        },
+        "lineNames": [
+            "02",
+            "05",
+            "06",
+            "10",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 47923,
+        "code": "110",
+        "latitude": 39.6584543,
+        "longitude": 20.8578741,
+        "description": {
+            "el": "ΧΡΗΣΤΟΥ ΚΑΤΣΑΡΗ ",
+            "en": "XRHSTOU KATSARH "
+        },
+        "lineNames": [
+            "01",
+            "02",
+            "03",
+            "05",
+            "06",
+            "07",
+            "08",
+            "10",
+            "13",
+            "15",
+            "16",
+            "17"
+        ],
+        "distance": 0
+    },
+    {
+        "id": 48088,
+        "code": "313",
+        "latitude": 39.6659465,
+        "longitude": 20.8456,
+        "description": {
+            "el": "ΧΡΙΣΤΟΒΑΣΙΛΗ",
+            "en": "XRISTOBASILH"
+        },
+        "lineNames": [
+            "10",
+            "21"
+        ],
+        "distance": 0
+    }
+]

@@ -1,0 +1,8 @@
+
+.marker {
+    border: none;
+    cursor: pointer;
+    width:10px;
+    height:10px;
+    background-image: url('./B10.png');
+}
